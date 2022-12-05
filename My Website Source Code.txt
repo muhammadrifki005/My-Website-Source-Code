@@ -1,0 +1,3144 @@
+<!DOCTYPE html>
+<html dir='ltr' lang='id' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+<!-- Google tag (gtag.js) -->
+<script async='async' src='https://www.googletagmanager.com/gtag/js?id=G-JEVCRPPRFQ'></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-JEVCRPPRFQ');
+</script>
+<script type='text/javascript'>
+//<![CDATA[
+var uri = window.location.toString();
+if (uri.indexOf("%3D","%3D") > 0) {
+var clean_uri = uri.substring(0, uri.indexOf("%3D"));
+window.history.replaceState({}, document.title, clean_uri);
+}
+var uri = window.location.toString();
+if (uri.indexOf("%3D%3D","%3D%3D") > 0) {
+var clean_uri = uri.substring(0, uri.indexOf("%3D%3D"));
+window.history.replaceState({}, document.title, clean_uri);
+}
+var uri = window.location.toString();
+if (uri.indexOf("&m=1","&m=1") > 0) {
+var clean_uri = uri.substring(0, uri.indexOf("&m=1"));
+window.history.replaceState({}, document.title, clean_uri);
+}
+var uri = window.location.toString();
+if (uri.indexOf("?m=1","?m=1") > 0) {
+var clean_uri = uri.substring(0, uri.indexOf("?m=1"));
+window.history.replaceState({}, document.title, clean_uri);
+}
+//]]>
+</script>
+<script src='https://code.jquery.com/jquery-3.6.1.min.js'></script>
+<style type='text/css'>@font-face{font-family:'EB Garamond';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/ebgaramond/v26/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RkBI96.ttf)format('truetype');}@font-face{font-family:'EB Garamond';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/ebgaramond/v26/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-DPNkBI96.ttf)format('truetype');}@font-face{font-family:'Lato';font-style:normal;font-weight:300;src:url(//fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh7USSwiPHA.ttf)format('truetype');}@font-face{font-family:'Lato';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHjx4wWw.ttf)format('truetype');}@font-face{font-family:'Lato';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh6UVSwiPHA.ttf)format('truetype');}@font-face{font-family:'Lora';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/lora/v26/0QI6MX1D_JOuGQbT0gvTJPa787weuxJBkqg.ttf)format('truetype');}@font-face{font-family:'Montserrat';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf)format('truetype');}@font-face{font-family:'Montserrat';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf)format('truetype');}@font-face{font-family:'Ubuntu';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCxCvjsGyI.ttf)format('truetype');}</style>
+<style type='text/css'>
+    .preloader {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 9999;
+      background-color: #000000;
+    }
+    .preloader .loading {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%,-50%);
+      font: 2px ubuntu;
+    }
+    </style>
+<script>
+    $(document).ready(function(){
+  $(".preloader").fadeIn();
+    })
+    </script>
+<script>
+    $(document).ready(function(){
+  $(".preloader").delay(3000);
+    })
+    </script>
+<script>
+    $(document).ready(function(){
+  $(".preloader").fadeOut();
+    })
+    </script>
+<meta content='width=device-width, initial-scale=1' name='viewport'/>
+<title>𝗥𝗜𝗙𝗞𝗜  𝗕𝗟𝗢𝗚𝗚𝗘𝗥𝗦</title>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<!-- Chrome, Firefox OS and Opera -->
+<meta content='#ffffff' name='theme-color'/>
+<!-- Windows Phone -->
+<meta content='#ffffff' name='msapplication-navbutton-color'/>
+<meta content='blogger' name='generator'/>
+<link href='https://www.kibloggers.eu.org/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='https://www.kibloggers.eu.org/' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="𝗥𝗜𝗙𝗞𝗜  𝗕𝗟𝗢𝗚𝗚𝗘𝗥𝗦 - Atom" href="https://www.kibloggers.eu.org/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="𝗥𝗜𝗙𝗞𝗜  𝗕𝗟𝗢𝗚𝗚𝗘𝗥𝗦 - RSS" href="https://www.kibloggers.eu.org/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="𝗥𝗜𝗙𝗞𝗜  𝗕𝗟𝗢𝗚𝗚𝗘𝗥𝗦 - Atom" href="https://www.blogger.com/feeds/6062206140853919332/posts/default" />
+<link rel="me" href="https://www.blogger.com/profile/07542779819567775505" />
+<!--Can't find substitution for tag [blog.ieCssRetrofitLinks]-->
+<meta content='https://www.kibloggers.eu.org/' property='og:url'/>
+<meta content='𝗥𝗜𝗙𝗞𝗜  𝗕𝗟𝗢𝗚𝗚𝗘𝗥𝗦' property='og:title'/>
+<meta content='' property='og:description'/>
+<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT2zl9Bes1VbF631GhZgyjXx1wSokgEnX2y5O1P_Jd2GRP1LqSr60FDPFw0WoWX_aKVjOmIXGQTQT9Lk4XJ-jSi7bwxIjMS24Bz_npMHEEQtvarbEzmDMIc8QxAEyTvDZCaKCBfKQwFcK1FNay47gAcQZwuFsJncD6ptYioWcV4SdFqYq_a2ZetfWqZg/w1200-h630-p-k-no-nu/master_91mJ4e5q8K_1379.jpg' property='og:image'/>
+<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGF9ekqkOdVxNHEhx6zqqsneGBI9U7LCSgUGnAFT50ETnkQt-TcuuwaP_g2qeymxDgIdHlLKdRiZyM8YITaXA5hYx1M6u1Z2z-W9IY-t66oOflrIge6PSBdYjuiYqDRdc_FuVff1oDsgQauXay-eOQWg5celVMU8JGrt90mjawqRc6z04TzTvVl_K-ug/w1200-h630-p-k-no-nu/pngtree-greeting-text-of-selamat-hari-santri-nasional-png-image_8658593.png' property='og:image'/>
+<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh2_Qr8bDxdlEorExwpcDId3qZMVfbSIfyMULNPyiNYwCsWZay2g7tnq-ya8EHEjW7RY28hrhHFRD4-dPYLlbKjavRuQfAS_jCn0smuY37ykOEp9y4FCQ8jx755yIGwdi86seXojs_v_QNfoRbIVc4SvKBl_WYDjPNheX5w8djgJt6OzfFasRP_azTaA/w1200-h630-p-k-no-nu/sunday-quotes-index-1585055167.jpg' property='og:image'/>
+<meta content='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu4a6e0twzgrc6XH7UpOHORMvTvdtbJ451DhCAc5xdJ-Ixuwv3xvUl1RbfNN3_jbGE6hguKkBOv5sCN4pS5dnMoemZgVfrYWNQz6zmakLAIRZilj0yiOk4Ag5u2wdbKfWbA1jDcoOI9wMTbM2CAnK_Ar_x7BBqi2GQxY0BNsoHg9-NdHMlBvXtKFjLFA/w1200-h630-p-k-no-nu/phlwn.png' property='og:image'/>
+<style id='page-skin-1' type='text/css'><!--
+/*! normalize.css v8.0.1 | MIT License | git.io/normalize */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block}audio,canvas,progress,video{display:inline-block;vertical-align:baseline}audio:not([controls]){display:none;height:0}[hidden],template{display:none}a{background:transparent}a:active,a:hover{outline:0}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:bold}dfn{font-style:italic}h1{font-size:2em;margin:.67em 0}mark{background:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-0.5em}sub{bottom:-0.25em}img{border:0}svg:not(:root){overflow:hidden}figure{margin:1em 40px}hr{-moz-box-sizing:content-box;box-sizing:content-box;height:0}pre{overflow:auto}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}button,input,optgroup,select,textarea{color:inherit;font:inherit;margin:0}button{overflow:visible}button,select{text-transform:none}button,html input[type="button"],input[type="reset"],input[type="submit"]{-webkit-appearance:button;cursor:pointer}button[disabled],html input[disabled]{cursor:default}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}input[type="checkbox"],input[type="radio"]{box-sizing:border-box;padding:0}input[type="number"]::-webkit-inner-spin-button,input[type="number"]::-webkit-outer-spin-button{height:auto}input[type="search"]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit-search-decoration{-webkit-appearance:none}fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:.35em .625em .75em}legend{border:0;padding:0}textarea{overflow:auto}optgroup{font-weight:bold}table{border-collapse:collapse;border-spacing:0}td,th{padding:0}
+/*!************************************************
+* Blogger Template Style
+* Name: Soho
+**************************************************/
+body{
+overflow-wrap:break-word;
+word-break:break-word;
+word-wrap:break-word
+}
+.hidden{
+display:none
+}
+.invisible{
+visibility:hidden
+}
+.container::after,.float-container::after{
+clear:both;
+content:"";
+display:table
+}
+.clearboth{
+clear:both
+}
+#comments .comment .comment-actions,.subscribe-popup .FollowByEmail .follow-by-email-submit{
+background:0 0;
+border:0;
+box-shadow:none;
+color:#942b2b;
+cursor:pointer;
+font-size:14px;
+font-weight:700;
+outline:0;
+text-decoration:none;
+text-transform:uppercase;
+width:auto
+}
+.dim-overlay{
+background-color:rgba(0,0,0,.54);
+height:100vh;
+left:0;
+position:fixed;
+top:0;
+width:100%
+}
+#sharing-dim-overlay{
+background-color:transparent
+}
+input::-ms-clear{
+display:none
+}
+.blogger-logo,.svg-icon-24.blogger-logo{
+fill:#ff9800;
+opacity:1
+}
+.loading-spinner-large{
+-webkit-animation:mspin-rotate 1.568s infinite linear;
+animation:mspin-rotate 1.568s infinite linear;
+height:48px;
+overflow:hidden;
+position:absolute;
+width:48px;
+z-index:200
+}
+.loading-spinner-large>div{
+-webkit-animation:mspin-revrot 5332ms infinite steps(4);
+animation:mspin-revrot 5332ms infinite steps(4)
+}
+.loading-spinner-large>div>div{
+-webkit-animation:mspin-singlecolor-large-film 1333ms infinite steps(81);
+animation:mspin-singlecolor-large-film 1333ms infinite steps(81);
+background-size:100%;
+height:48px;
+width:3888px
+}
+.mspin-black-large>div>div,.mspin-grey_54-large>div>div{
+background-image:url(https://www.blogblog.com/indie/mspin_black_large.svg)
+}
+.mspin-white-large>div>div{
+background-image:url(https://www.blogblog.com/indie/mspin_white_large.svg)
+}
+.mspin-grey_54-large{
+opacity:.54
+}
+@-webkit-keyframes mspin-singlecolor-large-film{
+from{
+-webkit-transform:translateX(0);
+transform:translateX(0)
+}
+to{
+-webkit-transform:translateX(-3888px);
+transform:translateX(-3888px)
+}
+}
+@keyframes mspin-singlecolor-large-film{
+from{
+-webkit-transform:translateX(0);
+transform:translateX(0)
+}
+to{
+-webkit-transform:translateX(-3888px);
+transform:translateX(-3888px)
+}
+}
+@-webkit-keyframes mspin-rotate{
+from{
+-webkit-transform:rotate(0);
+transform:rotate(0)
+}
+to{
+-webkit-transform:rotate(360deg);
+transform:rotate(360deg)
+}
+}
+@keyframes mspin-rotate{
+from{
+-webkit-transform:rotate(0);
+transform:rotate(0)
+}
+to{
+-webkit-transform:rotate(360deg);
+transform:rotate(360deg)
+}
+}
+@-webkit-keyframes mspin-revrot{
+from{
+-webkit-transform:rotate(0);
+transform:rotate(0)
+}
+to{
+-webkit-transform:rotate(-360deg);
+transform:rotate(-360deg)
+}
+}
+@keyframes mspin-revrot{
+from{
+-webkit-transform:rotate(0);
+transform:rotate(0)
+}
+to{
+-webkit-transform:rotate(-360deg);
+transform:rotate(-360deg)
+}
+}
+.skip-navigation{
+background-color:#fff;
+box-sizing:border-box;
+color:#000;
+display:block;
+height:0;
+left:0;
+line-height:50px;
+overflow:hidden;
+padding-top:0;
+position:fixed;
+text-align:center;
+top:0;
+-webkit-transition:box-shadow .3s,height .3s,padding-top .3s;
+transition:box-shadow .3s,height .3s,padding-top .3s;
+width:100%;
+z-index:900
+}
+.skip-navigation:focus{
+box-shadow:0 4px 5px 0 rgba(0,0,0,.14),0 1px 10px 0 rgba(0,0,0,.12),0 2px 4px -1px rgba(0,0,0,.2);
+height:50px
+}
+#main{
+outline:0
+}
+.main-heading{
+position:absolute;
+clip:rect(1px,1px,1px,1px);
+padding:0;
+border:0;
+height:1px;
+width:1px;
+overflow:hidden
+}
+.Attribution{
+margin-top:1em;
+text-align:center
+}
+.Attribution .blogger img,.Attribution .blogger svg{
+vertical-align:bottom
+}
+.Attribution .blogger img{
+margin-right:.5em
+}
+.Attribution div{
+line-height:24px;
+margin-top:.5em
+}
+.Attribution .copyright,.Attribution .image-attribution{
+font-size:.7em;
+margin-top:1.5em
+}
+.BLOG_mobile_video_class{
+display:none
+}
+.bg-photo{
+background-attachment:scroll!important
+}
+body .CSS_LIGHTBOX{
+z-index:900
+}
+.extendable .show-less,.extendable .show-more{
+border-color:#942b2b;
+color:#942b2b;
+margin-top:8px
+}
+.extendable .show-less.hidden,.extendable .show-more.hidden{
+display:none
+}
+.inline-ad{
+display:none;
+max-width:100%;
+overflow:hidden
+}
+.adsbygoogle{
+display:block
+}
+#cookieChoiceInfo{
+bottom:0;
+top:auto
+}
+iframe.b-hbp-video{
+border:0
+}
+.post-body img{
+max-width:100%
+}
+.post-body iframe{
+max-width:100%
+}
+.post-body a[imageanchor="1"]{
+display:inline-block
+}
+.byline{
+margin-right:1em
+}
+.byline:last-child{
+margin-right:0
+}
+.link-copied-dialog{
+max-width:520px;
+outline:0
+}
+.link-copied-dialog .modal-dialog-buttons{
+margin-top:8px
+}
+.link-copied-dialog .goog-buttonset-default{
+background:0 0;
+border:0
+}
+.link-copied-dialog .goog-buttonset-default:focus{
+outline:0
+}
+.paging-control-container{
+margin-bottom:16px
+}
+.paging-control-container .paging-control{
+display:inline-block
+}
+.paging-control-container .comment-range-text::after,.paging-control-container .paging-control{
+color:#942b2b
+}
+.paging-control-container .comment-range-text,.paging-control-container .paging-control{
+margin-right:8px
+}
+.paging-control-container .comment-range-text::after,.paging-control-container .paging-control::after{
+content:"\b7";
+cursor:default;
+padding-left:8px;
+pointer-events:none
+}
+.paging-control-container .comment-range-text:last-child::after,.paging-control-container .paging-control:last-child::after{
+content:none
+}
+.byline.reactions iframe{
+height:20px
+}
+.b-notification{
+color:#000;
+background-color:#fff;
+border-bottom:solid 1px #000;
+box-sizing:border-box;
+padding:16px 32px;
+text-align:center
+}
+.b-notification.visible{
+-webkit-transition:margin-top .3s cubic-bezier(.4,0,.2,1);
+transition:margin-top .3s cubic-bezier(.4,0,.2,1)
+}
+.b-notification.invisible{
+position:absolute
+}
+.b-notification-close{
+position:absolute;
+right:8px;
+top:8px
+}
+.no-posts-message{
+line-height:40px;
+text-align:center
+}
+@media screen and (max-width:1162px){
+body.item-view .post-body a[imageanchor="1"][style*="float: left;"],body.item-view .post-body a[imageanchor="1"][style*="float: right;"]{
+float:none!important;
+clear:none!important
+}
+body.item-view .post-body a[imageanchor="1"] img{
+display:block;
+height:auto;
+margin:0 auto
+}
+body.item-view .post-body>.separator:first-child>a[imageanchor="1"]:first-child{
+margin-top:20px
+}
+.post-body a[imageanchor]{
+display:block
+}
+body.item-view .post-body a[imageanchor="1"]{
+margin-left:0!important;
+margin-right:0!important
+}
+body.item-view .post-body a[imageanchor="1"]+a[imageanchor="1"]{
+margin-top:16px
+}
+}
+.item-control{
+display:none
+}
+#comments{
+border-top:1px dashed rgba(0,0,0,.54);
+margin-top:20px;
+padding:20px
+}
+#comments .comment-thread ol{
+margin:0;
+padding-left:0;
+padding-left:0
+}
+#comments .comment .comment-replybox-single,#comments .comment-thread .comment-replies{
+margin-left:60px
+}
+#comments .comment-thread .thread-count{
+display:none
+}
+#comments .comment{
+list-style-type:none;
+padding:0 0 30px;
+position:relative
+}
+#comments .comment .comment{
+padding-bottom:8px
+}
+.comment .avatar-image-container{
+position:absolute
+}
+.comment .avatar-image-container img{
+border-radius:50%
+}
+.avatar-image-container svg,.comment .avatar-image-container .avatar-icon{
+border-radius:50%;
+border:solid 1px #000000;
+box-sizing:border-box;
+fill:#000000;
+height:35px;
+margin:0;
+padding:7px;
+width:35px
+}
+.comment .comment-block{
+margin-top:10px;
+margin-left:60px;
+padding-bottom:0
+}
+#comments .comment-author-header-wrapper{
+margin-left:40px
+}
+#comments .comment .thread-expanded .comment-block{
+padding-bottom:20px
+}
+#comments .comment .comment-header .user,#comments .comment .comment-header .user a{
+color:#000000;
+font-style:normal;
+font-weight:700
+}
+#comments .comment .comment-actions{
+bottom:0;
+margin-bottom:15px;
+position:absolute
+}
+#comments .comment .comment-actions>*{
+margin-right:8px
+}
+#comments .comment .comment-header .datetime{
+bottom:0;
+color:#000000;
+display:inline-block;
+font-size:13px;
+font-style:italic;
+margin-left:8px
+}
+#comments .comment .comment-footer .comment-timestamp a,#comments .comment .comment-header .datetime a{
+color:#000000
+}
+#comments .comment .comment-content,.comment .comment-body{
+margin-top:12px;
+word-break:break-word
+}
+.comment-body{
+margin-bottom:12px
+}
+#comments.embed[data-num-comments="0"]{
+border:0;
+margin-top:0;
+padding-top:0
+}
+#comments.embed[data-num-comments="0"] #comment-post-message,#comments.embed[data-num-comments="0"] div.comment-form>p,#comments.embed[data-num-comments="0"] p.comment-footer{
+display:none
+}
+#comment-editor-src{
+display:none
+}
+.comments .comments-content .loadmore.loaded{
+max-height:0;
+opacity:0;
+overflow:hidden
+}
+.extendable .remaining-items{
+height:0;
+overflow:hidden;
+-webkit-transition:height .3s cubic-bezier(.4,0,.2,1);
+transition:height .3s cubic-bezier(.4,0,.2,1)
+}
+.extendable .remaining-items.expanded{
+height:auto
+}
+.svg-icon-24,.svg-icon-24-button{
+cursor:pointer;
+height:24px;
+width:24px;
+min-width:24px
+}
+.touch-icon{
+margin:-12px;
+padding:12px
+}
+.touch-icon:active,.touch-icon:focus{
+background-color:rgba(153,153,153,.4);
+border-radius:50%
+}
+svg:not(:root).touch-icon{
+overflow:visible
+}
+html[dir=rtl] .rtl-reversible-icon{
+-webkit-transform:scaleX(-1);
+-ms-transform:scaleX(-1);
+transform:scaleX(-1)
+}
+.svg-icon-24-button,.touch-icon-button{
+background:0 0;
+border:0;
+margin:0;
+outline:0;
+padding:0
+}
+.touch-icon-button .touch-icon:active,.touch-icon-button .touch-icon:focus{
+background-color:transparent
+}
+.touch-icon-button:active .touch-icon,.touch-icon-button:focus .touch-icon{
+background-color:rgba(153,153,153,.4);
+border-radius:50%
+}
+.Profile .default-avatar-wrapper .avatar-icon{
+border-radius:50%;
+border:solid 1px #000000;
+box-sizing:border-box;
+fill:#000000;
+margin:0
+}
+.Profile .individual .default-avatar-wrapper .avatar-icon{
+padding:25px
+}
+.Profile .individual .avatar-icon,.Profile .individual .profile-img{
+height:120px;
+width:120px
+}
+.Profile .team .default-avatar-wrapper .avatar-icon{
+padding:8px
+}
+.Profile .team .avatar-icon,.Profile .team .default-avatar-wrapper,.Profile .team .profile-img{
+height:40px;
+width:40px
+}
+.snippet-container{
+margin:0;
+position:relative;
+overflow:hidden
+}
+.snippet-fade{
+bottom:0;
+box-sizing:border-box;
+position:absolute;
+width:96px
+}
+.snippet-fade{
+right:0
+}
+.snippet-fade:after{
+content:"\2026"
+}
+.snippet-fade:after{
+float:right
+}
+.centered-top-container.sticky{
+left:0;
+position:fixed;
+right:0;
+top:0;
+width:auto;
+z-index:50;
+-webkit-transition-property:opacity,-webkit-transform;
+transition-property:opacity,-webkit-transform;
+transition-property:transform,opacity;
+transition-property:transform,opacity,-webkit-transform;
+-webkit-transition-duration:.2s;
+transition-duration:.2s;
+-webkit-transition-timing-function:cubic-bezier(.4,0,.2,1);
+transition-timing-function:cubic-bezier(.4,0,.2,1)
+}
+.centered-top-placeholder{
+display:none
+}
+.collapsed-header .centered-top-placeholder{
+display:block
+}
+.centered-top-container .Header .replaced h1,.centered-top-placeholder .Header .replaced h1{
+display:none
+}
+.centered-top-container.sticky .Header .replaced h1{
+display:block
+}
+.centered-top-container.sticky .Header .header-widget{
+background:0 0
+}
+.centered-top-container.sticky .Header .header-image-wrapper{
+display:none
+}
+.centered-top-container img,.centered-top-placeholder img{
+max-width:100%
+}
+.collapsible{
+-webkit-transition:height .3s cubic-bezier(.4,0,.2,1);
+transition:height .3s cubic-bezier(.4,0,.2,1)
+}
+.collapsible,.collapsible>summary{
+display:block;
+overflow:hidden
+}
+.collapsible>:not(summary){
+display:none
+}
+.collapsible[open]>:not(summary){
+display:block
+}
+.collapsible:focus,.collapsible>summary:focus{
+outline:0
+}
+.collapsible>summary{
+cursor:pointer;
+display:block;
+padding:0
+}
+.collapsible:focus>summary,.collapsible>summary:focus{
+background-color:transparent
+}
+.collapsible>summary::-webkit-details-marker{
+display:none
+}
+.collapsible-title{
+-webkit-box-align:center;
+-webkit-align-items:center;
+-ms-flex-align:center;
+align-items:center;
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex
+}
+.collapsible-title .title{
+-webkit-box-flex:1;
+-webkit-flex:1 1 auto;
+-ms-flex:1 1 auto;
+flex:1 1 auto;
+-webkit-box-ordinal-group:1;
+-webkit-order:0;
+-ms-flex-order:0;
+order:0;
+overflow:hidden;
+text-overflow:ellipsis;
+white-space:nowrap
+}
+.collapsible-title .chevron-down,.collapsible[open] .collapsible-title .chevron-up{
+display:block
+}
+.collapsible-title .chevron-up,.collapsible[open] .collapsible-title .chevron-down{
+display:none
+}
+.flat-button{
+cursor:pointer;
+display:inline-block;
+font-weight:700;
+text-transform:uppercase;
+border-radius:2px;
+padding:8px;
+margin:-8px
+}
+.flat-icon-button{
+background:0 0;
+border:0;
+margin:0;
+outline:0;
+padding:0;
+margin:-12px;
+padding:12px;
+cursor:pointer;
+box-sizing:content-box;
+display:inline-block;
+line-height:0
+}
+.flat-icon-button,.flat-icon-button .splash-wrapper{
+border-radius:50%
+}
+.flat-icon-button .splash.animate{
+-webkit-animation-duration:.3s;
+animation-duration:.3s
+}
+.overflowable-container{
+max-height:28px;
+overflow:hidden;
+position:relative
+}
+.overflow-button{
+cursor:pointer
+}
+#overflowable-dim-overlay{
+background:0 0
+}
+.overflow-popup{
+box-shadow:0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);
+background-color:#ffffff;
+left:0;
+max-width:calc(100% - 32px);
+position:absolute;
+top:0;
+visibility:hidden;
+z-index:101
+}
+.overflow-popup ul{
+list-style:none
+}
+.overflow-popup .tabs li,.overflow-popup li{
+display:block;
+height:auto
+}
+.overflow-popup .tabs li{
+padding-left:0;
+padding-right:0
+}
+.overflow-button.hidden,.overflow-popup .tabs li.hidden,.overflow-popup li.hidden{
+display:none
+}
+.search{
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex;
+line-height:24px;
+width:24px
+}
+.search.focused{
+width:100%
+}
+.search.focused .section{
+width:100%
+}
+.search form{
+z-index:101
+}
+.search h3{
+display:none
+}
+.search form{
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex;
+-webkit-box-flex:1;
+-webkit-flex:1 0 0;
+-ms-flex:1 0 0px;
+flex:1 0 0;
+border-bottom:solid 1px transparent;
+padding-bottom:8px
+}
+.search form>*{
+display:none
+}
+.search.focused form>*{
+display:block
+}
+.search .search-input label{
+display:none
+}
+.centered-top-placeholder.cloned .search form{
+z-index:30
+}
+.search.focused form{
+border-color:#000000;
+position:relative;
+width:auto
+}
+.collapsed-header .centered-top-container .search.focused form{
+border-bottom-color:transparent
+}
+.search-expand{
+-webkit-box-flex:0;
+-webkit-flex:0 0 auto;
+-ms-flex:0 0 auto;
+flex:0 0 auto
+}
+.search-expand-text{
+display:none
+}
+.search-close{
+display:inline;
+vertical-align:middle
+}
+.search-input{
+-webkit-box-flex:1;
+-webkit-flex:1 0 1px;
+-ms-flex:1 0 1px;
+flex:1 0 1px
+}
+.search-input input{
+background:0 0;
+border:0;
+box-sizing:border-box;
+color:#000000;
+display:inline-block;
+outline:0;
+width:calc(100% - 48px)
+}
+.search-input input.no-cursor{
+color:transparent;
+text-shadow:0 0 0 #000000
+}
+.collapsed-header .centered-top-container .search-action,.collapsed-header .centered-top-container .search-input input{
+color:#000000
+}
+.collapsed-header .centered-top-container .search-input input.no-cursor{
+color:transparent;
+text-shadow:0 0 0 #000000
+}
+.collapsed-header .centered-top-container .search-input input.no-cursor:focus,.search-input input.no-cursor:focus{
+outline:0
+}
+.search-focused>*{
+visibility:hidden
+}
+.search-focused .search,.search-focused .search-icon{
+visibility:visible
+}
+.search.focused .search-action{
+display:block
+}
+.search.focused .search-action:disabled{
+opacity:.3
+}
+.widget.Sharing .sharing-button{
+display:none
+}
+.widget.Sharing .sharing-buttons li{
+padding:0
+}
+.widget.Sharing .sharing-buttons li span{
+display:none
+}
+.post-share-buttons{
+position:relative
+}
+.centered-bottom .share-buttons .svg-icon-24,.share-buttons .svg-icon-24{
+fill:#000000
+}
+.sharing-open.touch-icon-button:active .touch-icon,.sharing-open.touch-icon-button:focus .touch-icon{
+background-color:transparent
+}
+.share-buttons{
+background-color:#ffffff;
+border-radius:2px;
+box-shadow:0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);
+color:#000000;
+list-style:none;
+margin:0;
+padding:8px 0;
+position:absolute;
+top:-11px;
+min-width:200px;
+z-index:101
+}
+.share-buttons.hidden{
+display:none
+}
+.sharing-button{
+background:0 0;
+border:0;
+margin:0;
+outline:0;
+padding:0;
+cursor:pointer
+}
+.share-buttons li{
+margin:0;
+height:48px
+}
+.share-buttons li:last-child{
+margin-bottom:0
+}
+.share-buttons li .sharing-platform-button{
+box-sizing:border-box;
+cursor:pointer;
+display:block;
+height:100%;
+margin-bottom:0;
+padding:0 16px;
+position:relative;
+width:100%
+}
+.share-buttons li .sharing-platform-button:focus,.share-buttons li .sharing-platform-button:hover{
+background-color:rgba(128,128,128,.1);
+outline:0
+}
+.share-buttons li svg[class*=" sharing-"],.share-buttons li svg[class^=sharing-]{
+position:absolute;
+top:10px
+}
+.share-buttons li span.sharing-platform-button{
+position:relative;
+top:0
+}
+.share-buttons li .platform-sharing-text{
+display:block;
+font-size:16px;
+line-height:48px;
+white-space:nowrap
+}
+.share-buttons li .platform-sharing-text{
+margin-left:56px
+}
+.sidebar-container{
+background-color:#f7f7f7;
+max-width:284px;
+overflow-y:auto;
+-webkit-transition-property:-webkit-transform;
+transition-property:-webkit-transform;
+transition-property:transform;
+transition-property:transform,-webkit-transform;
+-webkit-transition-duration:.3s;
+transition-duration:.3s;
+-webkit-transition-timing-function:cubic-bezier(0,0,.2,1);
+transition-timing-function:cubic-bezier(0,0,.2,1);
+width:284px;
+z-index:101;
+-webkit-overflow-scrolling:touch
+}
+.sidebar-container .navigation{
+line-height:0;
+padding:16px
+}
+.sidebar-container .sidebar-back{
+cursor:pointer
+}
+.sidebar-container .widget{
+background:0 0;
+margin:0 16px;
+padding:16px 0
+}
+.sidebar-container .widget .title{
+color:#000000;
+margin:0
+}
+.sidebar-container .widget ul{
+list-style:none;
+margin:0;
+padding:0
+}
+.sidebar-container .widget ul ul{
+margin-left:1em
+}
+.sidebar-container .widget li{
+font-size:16px;
+line-height:normal
+}
+.sidebar-container .widget+.widget{
+border-top:1px dashed transparent
+}
+.BlogArchive li{
+margin:16px 0
+}
+.BlogArchive li:last-child{
+margin-bottom:0
+}
+.Label li a{
+display:inline-block
+}
+.BlogArchive .post-count,.Label .label-count{
+float:right;
+margin-left:.25em
+}
+.BlogArchive .post-count::before,.Label .label-count::before{
+content:"("
+}
+.BlogArchive .post-count::after,.Label .label-count::after{
+content:")"
+}
+.widget.Translate .skiptranslate>div{
+display:block!important
+}
+.widget.Profile .profile-link{
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex
+}
+.widget.Profile .team-member .default-avatar-wrapper,.widget.Profile .team-member .profile-img{
+-webkit-box-flex:0;
+-webkit-flex:0 0 auto;
+-ms-flex:0 0 auto;
+flex:0 0 auto;
+margin-right:1em
+}
+.widget.Profile .individual .profile-link{
+-webkit-box-orient:vertical;
+-webkit-box-direction:normal;
+-webkit-flex-direction:column;
+-ms-flex-direction:column;
+flex-direction:column
+}
+.widget.Profile .team .profile-link .profile-name{
+-webkit-align-self:center;
+-ms-flex-item-align:center;
+align-self:center;
+display:block;
+-webkit-box-flex:1;
+-webkit-flex:1 1 auto;
+-ms-flex:1 1 auto;
+flex:1 1 auto
+}
+.dim-overlay{
+background-color:rgba(0,0,0,.54);
+z-index:100
+}
+body.sidebar-visible{
+overflow-y:hidden
+}
+@media screen and (max-width:1439px){
+.sidebar-container{
+bottom:0;
+position:fixed;
+top:0;
+left:0;
+right:auto
+}
+.sidebar-container.sidebar-invisible{
+-webkit-transition-timing-function:cubic-bezier(.4,0,.6,1);
+transition-timing-function:cubic-bezier(.4,0,.6,1)
+}
+html[dir=ltr] .sidebar-container.sidebar-invisible{
+-webkit-transform:translateX(-284px);
+-ms-transform:translateX(-284px);
+transform:translateX(-284px)
+}
+html[dir=rtl] .sidebar-container.sidebar-invisible{
+-webkit-transform:translateX(284px);
+-ms-transform:translateX(284px);
+transform:translateX(284px)
+}
+}
+@media screen and (min-width:1440px){
+.sidebar-container{
+position:absolute;
+top:0;
+left:0;
+right:auto
+}
+.sidebar-container .navigation{
+display:none
+}
+}
+.dialog{
+box-shadow:0 2px 2px 0 rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.2),0 1px 5px 0 rgba(0,0,0,.12);
+background:#ffffff;
+box-sizing:border-box;
+color:#000000;
+padding:30px;
+position:fixed;
+text-align:center;
+width:calc(100% - 24px);
+z-index:101
+}
+.dialog input[type=email],.dialog input[type=text]{
+background-color:transparent;
+border:0;
+border-bottom:solid 1px rgba(0,0,0,.12);
+color:#000000;
+display:block;
+font-family:EB Garamond, serif;
+font-size:16px;
+line-height:24px;
+margin:auto;
+padding-bottom:7px;
+outline:0;
+text-align:center;
+width:100%
+}
+.dialog input[type=email]::-webkit-input-placeholder,.dialog input[type=text]::-webkit-input-placeholder{
+color:#000000
+}
+.dialog input[type=email]::-moz-placeholder,.dialog input[type=text]::-moz-placeholder{
+color:#000000
+}
+.dialog input[type=email]:-ms-input-placeholder,.dialog input[type=text]:-ms-input-placeholder{
+color:#000000
+}
+.dialog input[type=email]::-ms-input-placeholder,.dialog input[type=text]::-ms-input-placeholder{
+color:#000000
+}
+.dialog input[type=email]::placeholder,.dialog input[type=text]::placeholder{
+color:#000000
+}
+.dialog input[type=email]:focus,.dialog input[type=text]:focus{
+border-bottom:solid 2px #942b2b;
+padding-bottom:6px
+}
+.dialog input.no-cursor{
+color:transparent;
+text-shadow:0 0 0 #000000
+}
+.dialog input.no-cursor:focus{
+outline:0
+}
+.dialog input.no-cursor:focus{
+outline:0
+}
+.dialog input[type=submit]{
+font-family:EB Garamond, serif
+}
+.dialog .goog-buttonset-default{
+color:#942b2b
+}
+.subscribe-popup{
+max-width:364px
+}
+.subscribe-popup h3{
+color:#000000;
+font-size:1.8em;
+margin-top:0
+}
+.subscribe-popup .FollowByEmail h3{
+display:none
+}
+.subscribe-popup .FollowByEmail .follow-by-email-submit{
+color:#942b2b;
+display:inline-block;
+margin:0 auto;
+margin-top:24px;
+width:auto;
+white-space:normal
+}
+.subscribe-popup .FollowByEmail .follow-by-email-submit:disabled{
+cursor:default;
+opacity:.3
+}
+@media (max-width:800px){
+.blog-name div.widget.Subscribe{
+margin-bottom:16px
+}
+body.item-view .blog-name div.widget.Subscribe{
+margin:8px auto 16px auto;
+width:100%
+}
+}
+body#layout .bg-photo,body#layout .bg-photo-overlay{
+display:none
+}
+body#layout .page_body{
+padding:0;
+position:relative;
+top:0
+}
+body#layout .page{
+display:inline-block;
+left:inherit;
+position:relative;
+vertical-align:top;
+width:540px
+}
+body#layout .centered{
+max-width:954px
+}
+body#layout .navigation{
+display:none
+}
+body#layout .sidebar-container{
+display:inline-block;
+width:40%
+}
+body#layout .hamburger-menu,body#layout .search{
+display:none
+}
+body{
+background-color:#ffffff;
+color:#000000;
+font:normal normal 20px EB Garamond, serif;
+height:100%;
+margin:0;
+min-height:100vh
+}
+h1,h2,h3,h4,h5,h6{
+font-weight:400
+}
+a{
+color:#942b2b;
+text-decoration:none
+}
+.dim-overlay{
+z-index:100
+}
+body.sidebar-visible .page_body{
+overflow-y:scroll
+}
+.widget .title{
+color:#000000;
+font:normal bold 17px Ubuntu
+}
+.extendable .show-less,.extendable .show-more{
+color:#942b2b;
+font:normal bold 12px Montserrat, sans-serif;
+margin:12px -8px 0 -8px;
+text-transform:uppercase
+}
+.footer .widget,.main .widget{
+margin:50px 0
+}
+.main .widget .title{
+text-transform:uppercase
+}
+.inline-ad{
+display:block;
+margin-top:50px
+}
+.adsbygoogle{
+text-align:center
+}
+.page_body{
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex;
+-webkit-box-orient:vertical;
+-webkit-box-direction:normal;
+-webkit-flex-direction:column;
+-ms-flex-direction:column;
+flex-direction:column;
+min-height:100vh;
+position:relative;
+z-index:20
+}
+.page_body>*{
+-webkit-box-flex:0;
+-webkit-flex:0 0 auto;
+-ms-flex:0 0 auto;
+flex:0 0 auto
+}
+.page_body>#footer{
+margin-top:auto
+}
+.centered-bottom,.centered-top{
+margin:0 32px;
+max-width:100%
+}
+.centered-top{
+padding-bottom:12px;
+padding-top:12px
+}
+.sticky .centered-top{
+padding-bottom:0;
+padding-top:0
+}
+.centered-top-container,.centered-top-placeholder{
+background:#ffffff
+}
+.centered-top{
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex;
+-webkit-flex-wrap:wrap;
+-ms-flex-wrap:wrap;
+flex-wrap:wrap;
+-webkit-box-pack:justify;
+-webkit-justify-content:space-between;
+-ms-flex-pack:justify;
+justify-content:space-between;
+position:relative
+}
+.sticky .centered-top{
+-webkit-flex-wrap:nowrap;
+-ms-flex-wrap:nowrap;
+flex-wrap:nowrap
+}
+.centered-top-container .svg-icon-24,.centered-top-placeholder .svg-icon-24{
+fill:#000000
+}
+.back-button-container,.hamburger-menu-container{
+-webkit-box-flex:0;
+-webkit-flex:0 0 auto;
+-ms-flex:0 0 auto;
+flex:0 0 auto;
+height:48px;
+-webkit-box-ordinal-group:2;
+-webkit-order:1;
+-ms-flex-order:1;
+order:1
+}
+.sticky .back-button-container,.sticky .hamburger-menu-container{
+-webkit-box-ordinal-group:2;
+-webkit-order:1;
+-ms-flex-order:1;
+order:1
+}
+.back-button,.hamburger-menu,.search-expand-icon{
+cursor:pointer;
+margin-top:0
+}
+.search{
+-webkit-box-align:start;
+-webkit-align-items:flex-start;
+-ms-flex-align:start;
+align-items:flex-start;
+-webkit-box-flex:0;
+-webkit-flex:0 0 auto;
+-ms-flex:0 0 auto;
+flex:0 0 auto;
+height:48px;
+margin-left:24px;
+-webkit-box-ordinal-group:4;
+-webkit-order:3;
+-ms-flex-order:3;
+order:3
+}
+.search,.search.focused{
+width:auto
+}
+.search.focused{
+position:static
+}
+.sticky .search{
+display:none;
+-webkit-box-ordinal-group:5;
+-webkit-order:4;
+-ms-flex-order:4;
+order:4
+}
+.search .section{
+right:0;
+margin-top:12px;
+position:absolute;
+top:12px;
+width:0
+}
+.sticky .search .section{
+top:0
+}
+.search-expand{
+background:0 0;
+border:0;
+margin:0;
+outline:0;
+padding:0;
+color:#942b2b;
+cursor:pointer;
+-webkit-box-flex:0;
+-webkit-flex:0 0 auto;
+-ms-flex:0 0 auto;
+flex:0 0 auto;
+font:normal bold 12px Montserrat, sans-serif;
+text-transform:uppercase;
+word-break:normal
+}
+.search.focused .search-expand{
+visibility:hidden
+}
+.search .dim-overlay{
+background:0 0
+}
+.search.focused .section{
+max-width:400px
+}
+.search.focused form{
+border-color:#000000;
+height:24px
+}
+.search.focused .search-input{
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex;
+-webkit-box-flex:1;
+-webkit-flex:1 1 auto;
+-ms-flex:1 1 auto;
+flex:1 1 auto
+}
+.search-input input{
+-webkit-box-flex:1;
+-webkit-flex:1 1 auto;
+-ms-flex:1 1 auto;
+flex:1 1 auto;
+font:normal bold 16px Ubuntu
+}
+.search input[type=submit]{
+display:none
+}
+.subscribe-section-container{
+-webkit-box-flex:1;
+-webkit-flex:1 0 auto;
+-ms-flex:1 0 auto;
+flex:1 0 auto;
+margin-left:24px;
+-webkit-box-ordinal-group:3;
+-webkit-order:2;
+-ms-flex-order:2;
+order:2;
+text-align:right
+}
+.sticky .subscribe-section-container{
+-webkit-box-flex:0;
+-webkit-flex:0 0 auto;
+-ms-flex:0 0 auto;
+flex:0 0 auto;
+-webkit-box-ordinal-group:4;
+-webkit-order:3;
+-ms-flex-order:3;
+order:3
+}
+.subscribe-button{
+background:0 0;
+border:0;
+margin:0;
+outline:0;
+padding:0;
+color:#942b2b;
+cursor:pointer;
+display:inline-block;
+font:normal bold 12px Montserrat, sans-serif;
+line-height:48px;
+margin:0;
+text-transform:uppercase;
+word-break:normal
+}
+.subscribe-popup h3{
+color:#000000;
+font:normal bold 17px Ubuntu;
+margin-bottom:24px;
+text-transform:uppercase
+}
+.subscribe-popup div.widget.FollowByEmail .follow-by-email-address{
+color:#000000;
+font:normal bold 17px Ubuntu
+}
+.subscribe-popup div.widget.FollowByEmail .follow-by-email-submit{
+color:#942b2b;
+font:normal bold 12px Montserrat, sans-serif;
+margin-top:24px;
+text-transform:uppercase
+}
+.blog-name{
+-webkit-box-flex:1;
+-webkit-flex:1 1 100%;
+-ms-flex:1 1 100%;
+flex:1 1 100%;
+-webkit-box-ordinal-group:5;
+-webkit-order:4;
+-ms-flex-order:4;
+order:4;
+overflow:hidden
+}
+.sticky .blog-name{
+-webkit-box-flex:1;
+-webkit-flex:1 1 auto;
+-ms-flex:1 1 auto;
+flex:1 1 auto;
+margin:0 12px;
+-webkit-box-ordinal-group:3;
+-webkit-order:2;
+-ms-flex-order:2;
+order:2
+}
+body.search-view .centered-top.search-focused .blog-name{
+display:none
+}
+.widget.Header h1{
+font:normal 400 18px EB Garamond, serif;
+margin:0;
+text-transform:uppercase
+}
+.widget.Header h1,.widget.Header h1 a{
+color:#000000
+}
+.widget.Header p{
+color:#000000;
+font:normal 400 12px Montserrat, sans-serif;
+line-height:1.7
+}
+.sticky .widget.Header h1{
+font-size:16px;
+line-height:48px;
+overflow:hidden;
+overflow-wrap:normal;
+text-overflow:ellipsis;
+white-space:nowrap;
+word-wrap:normal
+}
+.sticky .widget.Header p{
+display:none
+}
+.sticky{
+box-shadow:0 1px 3px rgba(0,0,0,0.098)
+}
+#page_list_top .widget.PageList{
+font:normal 400 14px Montserrat, sans-serif;
+line-height:28px
+}
+#page_list_top .widget.PageList .title{
+display:none
+}
+#page_list_top .widget.PageList .overflowable-contents{
+overflow:hidden
+}
+#page_list_top .widget.PageList .overflowable-contents ul{
+list-style:none;
+margin:0;
+padding:0
+}
+#page_list_top .widget.PageList .overflow-popup ul{
+list-style:none;
+margin:0;
+padding:0 20px
+}
+#page_list_top .widget.PageList .overflowable-contents li{
+display:inline-block
+}
+#page_list_top .widget.PageList .overflowable-contents li.hidden{
+display:none
+}
+#page_list_top .widget.PageList .overflowable-contents li:not(:first-child):before{
+color:#000000;
+content:"\b7"
+}
+#page_list_top .widget.PageList .overflow-button a,#page_list_top .widget.PageList .overflow-popup li a,#page_list_top .widget.PageList .overflowable-contents li a{
+color:#000000;
+font:normal 400 14px Montserrat, sans-serif;
+line-height:28px;
+text-transform:uppercase
+}
+#page_list_top .widget.PageList .overflow-popup li.selected a,#page_list_top .widget.PageList .overflowable-contents li.selected a{
+color:#000000;
+font:normal 700 14px Montserrat, sans-serif;
+line-height:28px
+}
+#page_list_top .widget.PageList .overflow-button{
+display:inline
+}
+.sticky #page_list_top{
+display:none
+}
+body.homepage-view .hero-image.has-image{
+background:#fefefe url(https://themes.googleusercontent.com/image?id=1CVtjxVknoYTX4Kys5N435vB95BN7PXF9ste8Z9xYTvHN-Jk5cSh1TVfGsJ5WiV71Qz_-) no-repeat fixed top center /* Credit: Bim (http://www.istockphoto.com/portfolio/Bim?platform=blogger) */;
+background-attachment:scroll;
+background-color:#ffffff;
+background-size:cover;
+height:62.5vw;
+max-height:75vh;
+min-height:200px;
+width:100%
+}
+.post-filter-message{
+background-color:#000000;
+color:rgba(250,250,250,0.537);
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex;
+-webkit-flex-wrap:wrap;
+-ms-flex-wrap:wrap;
+flex-wrap:wrap;
+font:normal bold 12px Montserrat, sans-serif;
+-webkit-box-pack:justify;
+-webkit-justify-content:space-between;
+-ms-flex-pack:justify;
+justify-content:space-between;
+margin-top:50px;
+padding:18px
+}
+.post-filter-message .message-container{
+-webkit-box-flex:1;
+-webkit-flex:1 1 auto;
+-ms-flex:1 1 auto;
+flex:1 1 auto;
+min-width:0
+}
+.post-filter-message .home-link-container{
+-webkit-box-flex:0;
+-webkit-flex:0 0 auto;
+-ms-flex:0 0 auto;
+flex:0 0 auto
+}
+.post-filter-message .search-label,.post-filter-message .search-query{
+color:rgba(250,250,250,0.867);
+font:normal bold 12px Montserrat, sans-serif;
+text-transform:uppercase
+}
+.post-filter-message .home-link,.post-filter-message .home-link a{
+color:#942b2b;
+font:normal bold 12px Montserrat, sans-serif;
+text-transform:uppercase
+}
+.widget.FeaturedPost .thumb.hero-thumb{
+background-position:center;
+background-size:cover;
+height:360px
+}
+.widget.FeaturedPost .featured-post-snippet:before{
+content:"\2014"
+}
+.snippet-container,.snippet-fade{
+font:normal 400 14px Lora, serif;
+line-height:23.8px
+}
+.snippet-container{
+max-height:166.6px;
+overflow:hidden
+}
+.snippet-fade{
+background:-webkit-linear-gradient(left,#ffffff 0,#ffffff 20%,rgba(255, 255, 255, 0) 100%);
+background:linear-gradient(to left,#ffffff 0,#ffffff 20%,rgba(255, 255, 255, 0) 100%);
+color:#000000
+}
+.post-sidebar{
+display:none
+}
+.widget.Blog .blog-posts .post-outer-container{
+width:100%
+}
+.no-posts{
+text-align:center
+}
+body.feed-view .widget.Blog .blog-posts .post-outer-container,body.item-view .widget.Blog .blog-posts .post-outer{
+margin-bottom:50px
+}
+.widget.Blog .post.no-featured-image,.widget.PopularPosts .post.no-featured-image{
+background-color:#000000;
+padding:30px
+}
+.widget.Blog .post>.post-share-buttons-top{
+right:0;
+position:absolute;
+top:0
+}
+.widget.Blog .post>.post-share-buttons-bottom{
+bottom:0;
+right:0;
+position:absolute
+}
+.blog-pager{
+text-align:right
+}
+.blog-pager a{
+color:#942b2b;
+font:normal bold 12px Montserrat, sans-serif;
+text-transform:uppercase
+}
+.blog-pager .blog-pager-newer-link,.blog-pager .home-link{
+display:none
+}
+.post-title{
+font:normal 400 20px EB Garamond, serif;
+margin:0;
+text-transform:uppercase
+}
+.post-title,.post-title a{
+color:#000000
+}
+.post.no-featured-image .post-title,.post.no-featured-image .post-title a{
+color:#ffffff
+}
+body.item-view .post-body-container:before{
+content:"\2014"
+}
+.post-body{
+color:#000000;
+font:normal 400 14px Lora, serif;
+line-height:1.7
+}
+.post-body blockquote{
+color:#000000;
+font:normal 400 16px Montserrat, sans-serif;
+line-height:1.7;
+margin-left:0;
+margin-right:0
+}
+.post-body img{
+height:auto;
+max-width:100%
+}
+.post-body .tr-caption{
+color:#000000;
+font:normal 400 12px Montserrat, sans-serif;
+line-height:1.7
+}
+.snippet-thumbnail{
+position:relative
+}
+.snippet-thumbnail .post-header{
+background:#ffffff;
+bottom:0;
+margin-bottom:0;
+padding-right:15px;
+padding-bottom:5px;
+padding-top:5px;
+position:absolute
+}
+.snippet-thumbnail img{
+width:100%
+}
+.post-footer,.post-header{
+margin:8px 0
+}
+body.item-view .widget.Blog .post-header{
+margin:0 0 16px 0
+}
+body.item-view .widget.Blog .post-footer{
+margin:50px 0 0 0
+}
+.widget.FeaturedPost .post-footer{
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex;
+-webkit-flex-wrap:wrap;
+-ms-flex-wrap:wrap;
+flex-wrap:wrap;
+-webkit-box-pack:justify;
+-webkit-justify-content:space-between;
+-ms-flex-pack:justify;
+justify-content:space-between
+}
+.widget.FeaturedPost .post-footer>*{
+-webkit-box-flex:0;
+-webkit-flex:0 1 auto;
+-ms-flex:0 1 auto;
+flex:0 1 auto
+}
+.widget.FeaturedPost .post-footer,.widget.FeaturedPost .post-footer a,.widget.FeaturedPost .post-footer button{
+line-height:1.7
+}
+.jump-link{
+margin:-8px
+}
+.post-header,.post-header a,.post-header button{
+color:#000000;
+font:normal 400 12px Montserrat, sans-serif
+}
+.post.no-featured-image .post-header,.post.no-featured-image .post-header a,.post.no-featured-image .post-header button{
+color:rgba(250,250,250,0.537)
+}
+.post-footer,.post-footer a,.post-footer button{
+color:#942b2b;
+font:normal 400 12px Montserrat, sans-serif
+}
+.post.no-featured-image .post-footer,.post.no-featured-image .post-footer a,.post.no-featured-image .post-footer button{
+color:#942b2b
+}
+body.item-view .post-footer-line{
+line-height:2.3
+}
+.byline{
+display:inline-block
+}
+.byline .flat-button{
+text-transform:none
+}
+.post-header .byline:not(:last-child):after{
+content:"\b7"
+}
+.post-header .byline:not(:last-child){
+margin-right:0
+}
+.byline.post-labels a{
+display:inline-block;
+word-break:break-all
+}
+.byline.post-labels a:not(:last-child):after{
+content:","
+}
+.byline.reactions .reactions-label{
+line-height:22px;
+vertical-align:top
+}
+.post-share-buttons{
+margin-left:0
+}
+.share-buttons{
+background-color:#FFFFFF;
+border-radius:0;
+box-shadow:0 1px 1px 1px rgba(0,0,0,0.098);
+color:#000000;
+font:normal bold 16px Montserrat, sans-serif
+}
+.share-buttons .svg-icon-24{
+fill:#942b2b
+}
+#comment-holder .continue{
+display:none
+}
+#comment-editor{
+margin-bottom:20px;
+margin-top:20px
+}
+.widget.Attribution,.widget.Attribution .copyright,.widget.Attribution .copyright a,.widget.Attribution .image-attribution,.widget.Attribution .image-attribution a,.widget.Attribution a{
+color:#000000;
+font:normal bold 12px Montserrat, sans-serif
+}
+.widget.Attribution svg{
+fill:#000000
+}
+.widget.Attribution .blogger a{
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex;
+-webkit-align-content:center;
+-ms-flex-line-pack:center;
+align-content:center;
+-webkit-box-pack:center;
+-webkit-justify-content:center;
+-ms-flex-pack:center;
+justify-content:center;
+line-height:24px
+}
+.widget.Attribution .blogger svg{
+margin-right:8px
+}
+.widget.Profile ul{
+list-style:none;
+padding:0
+}
+.widget.Profile .individual .default-avatar-wrapper,.widget.Profile .individual .profile-img{
+border-radius:50%;
+display:inline-block;
+height:120px;
+width:120px
+}
+.widget.Profile .individual .profile-data a,.widget.Profile .team .profile-name{
+color:#000000;
+font:normal bold 20px EB Garamond, serif;
+text-transform:none
+}
+.widget.Profile .individual dd{
+color:#000000;
+font:normal normal 20px EB Garamond, serif;
+margin:0 auto
+}
+.widget.Profile .individual .profile-link,.widget.Profile .team .visit-profile{
+color:#942b2b;
+font:normal bold 12px Montserrat, sans-serif;
+text-transform:uppercase
+}
+.widget.Profile .team .default-avatar-wrapper,.widget.Profile .team .profile-img{
+border-radius:50%;
+float:left;
+height:40px;
+width:40px
+}
+.widget.Profile .team .profile-link .profile-name-wrapper{
+-webkit-box-flex:1;
+-webkit-flex:1 1 auto;
+-ms-flex:1 1 auto;
+flex:1 1 auto
+}
+.widget.Label li,.widget.Label span.label-size{
+color:#942b2b;
+display:inline-block;
+font:normal bold 12px Montserrat, sans-serif;
+word-break:break-all
+}
+.widget.Label li:not(:last-child):after,.widget.Label span.label-size:not(:last-child):after{
+content:","
+}
+.widget.PopularPosts .post{
+margin-bottom:50px
+}
+#comments{
+border-top:none;
+padding:0
+}
+#comments .comment .comment-footer,#comments .comment .comment-header,#comments .comment .comment-header .datetime,#comments .comment .comment-header .datetime a{
+color:#000000;
+font:normal 400 12px Montserrat, sans-serif
+}
+#comments .comment .comment-author,#comments .comment .comment-author a,#comments .comment .comment-header .user,#comments .comment .comment-header .user a{
+color:#000000;
+font:normal 400 14px Montserrat, sans-serif
+}
+#comments .comment .comment-body,#comments .comment .comment-content{
+color:#000000;
+font:normal 400 14px Lora, serif
+}
+#comments .comment .comment-actions,#comments .footer,#comments .footer a,#comments .loadmore,#comments .paging-control{
+color:#942b2b;
+font:normal 400 12px Montserrat, sans-serif;
+text-transform:uppercase
+}
+#commentsHolder{
+border-bottom:none;
+border-top:none
+}
+#comments .comment-form h4{
+position:absolute;
+clip:rect(1px,1px,1px,1px);
+padding:0;
+border:0;
+height:1px;
+width:1px;
+overflow:hidden
+}
+.sidebar-container{
+background-color:#ffffff;
+color:#000000;
+font:normal bold 14px Montserrat, sans-serif;
+min-height:100%
+}
+html[dir=ltr] .sidebar-container{
+box-shadow:1px 0 3px rgba(0,0,0,0.098)
+}
+html[dir=rtl] .sidebar-container{
+box-shadow:-1px 0 3px rgba(0,0,0,0.098)
+}
+.sidebar-container a{
+color:#942b2b
+}
+.sidebar-container .svg-icon-24{
+fill:#000000
+}
+.sidebar-container .widget{
+margin:0;
+margin-left:40px;
+padding:40px;
+padding-left:0
+}
+.sidebar-container .widget+.widget{
+border-top:1px solid transparent
+}
+.sidebar-container .widget .title{
+color:#000000;
+font:normal bold 16px Montserrat, sans-serif
+}
+.sidebar-container .widget ul li,.sidebar-container .widget.BlogArchive #ArchiveList li{
+font:normal bold 14px Montserrat, sans-serif;
+margin:1em 0 0 0
+}
+.sidebar-container .BlogArchive .post-count,.sidebar-container .Label .label-count{
+float:none
+}
+.sidebar-container .Label li a{
+display:inline
+}
+.sidebar-container .widget.Profile .default-avatar-wrapper .avatar-icon{
+border-color:#000000;
+fill:#000000
+}
+.sidebar-container .widget.Profile .individual{
+text-align:center
+}
+.sidebar-container .widget.Profile .individual dd:before{
+content:"\2014";
+display:block
+}
+.sidebar-container .widget.Profile .individual .profile-data a,.sidebar-container .widget.Profile .team .profile-name{
+color:#000000;
+font:normal bold 24px EB Garamond, serif
+}
+.sidebar-container .widget.Profile .individual dd{
+color:#000000;
+font:normal bold 12px Montserrat, sans-serif;
+margin:0 30px
+}
+.sidebar-container .widget.Profile .individual .profile-link,.sidebar-container .widget.Profile .team .visit-profile{
+color:#942b2b;
+font:normal bold 14px Montserrat, sans-serif
+}
+.sidebar-container .snippet-fade{
+background:-webkit-linear-gradient(left,#ffffff 0,#ffffff 20%,rgba(255, 255, 255, 0) 100%);
+background:linear-gradient(to left,#ffffff 0,#ffffff 20%,rgba(255, 255, 255, 0) 100%)
+}
+@media screen and (min-width:640px){
+.centered-bottom,.centered-top{
+margin:0 auto;
+width:576px
+}
+.centered-top{
+-webkit-flex-wrap:nowrap;
+-ms-flex-wrap:nowrap;
+flex-wrap:nowrap;
+padding-bottom:24px;
+padding-top:36px
+}
+.blog-name{
+-webkit-box-flex:1;
+-webkit-flex:1 1 auto;
+-ms-flex:1 1 auto;
+flex:1 1 auto;
+min-width:0;
+-webkit-box-ordinal-group:3;
+-webkit-order:2;
+-ms-flex-order:2;
+order:2
+}
+.sticky .blog-name{
+margin:0
+}
+.back-button-container,.hamburger-menu-container{
+margin-right:36px;
+-webkit-box-ordinal-group:2;
+-webkit-order:1;
+-ms-flex-order:1;
+order:1
+}
+.search{
+margin-left:36px;
+-webkit-box-ordinal-group:5;
+-webkit-order:4;
+-ms-flex-order:4;
+order:4
+}
+.search .section{
+top:36px
+}
+.sticky .search{
+display:block
+}
+.subscribe-section-container{
+-webkit-box-flex:0;
+-webkit-flex:0 0 auto;
+-ms-flex:0 0 auto;
+flex:0 0 auto;
+margin-left:36px;
+-webkit-box-ordinal-group:4;
+-webkit-order:3;
+-ms-flex-order:3;
+order:3
+}
+.subscribe-button{
+font:normal bold 14px Montserrat, sans-serif;
+line-height:48px
+}
+.subscribe-popup h3{
+font:normal bold 18px Ubuntu
+}
+.subscribe-popup div.widget.FollowByEmail .follow-by-email-address{
+font:normal bold 18px Ubuntu
+}
+.subscribe-popup div.widget.FollowByEmail .follow-by-email-submit{
+font:normal bold 14px Montserrat, sans-serif
+}
+.widget .title{
+font:normal bold 18px Ubuntu
+}
+.widget.Blog .post.no-featured-image,.widget.PopularPosts .post.no-featured-image{
+padding:65px
+}
+.post-title{
+font:normal 400 24px EB Garamond, serif
+}
+.blog-pager a{
+font:normal bold 14px Montserrat, sans-serif
+}
+.widget.Header h1{
+font:normal 400 36px EB Garamond, serif
+}
+.sticky .widget.Header h1{
+font-size:24px
+}
+}
+@media screen and (min-width:1162px){
+.centered-bottom,.centered-top{
+width:922px
+}
+.back-button-container,.hamburger-menu-container{
+margin-right:48px
+}
+.search{
+margin-left:48px
+}
+.search-expand{
+font:normal bold 14px Montserrat, sans-serif;
+line-height:48px
+}
+.search-expand-text{
+display:block
+}
+.search-expand-icon{
+display:none
+}
+.subscribe-section-container{
+margin-left:48px
+}
+.post-filter-message{
+font:normal bold 14px Montserrat, sans-serif
+}
+.post-filter-message .search-label,.post-filter-message .search-query{
+font:normal bold 14px Montserrat, sans-serif
+}
+.post-filter-message .home-link{
+font:normal bold 14px Montserrat, sans-serif
+}
+.widget.Blog .blog-posts .post-outer-container{
+width:451px
+}
+body.item-view .widget.Blog .blog-posts .post-outer-container{
+width:100%
+}
+body.item-view .widget.Blog .blog-posts .post-outer{
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex
+}
+#comments,body.item-view .post-outer-container .inline-ad,body.item-view .widget.PopularPosts{
+margin-left:220px;
+width:682px
+}
+.post-sidebar{
+box-sizing:border-box;
+display:block;
+font:normal bold 14px Montserrat, sans-serif;
+padding-right:20px;
+width:220px
+}
+.post-sidebar-item{
+margin-bottom:30px
+}
+.post-sidebar-item ul{
+list-style:none;
+padding:0
+}
+.post-sidebar-item .sharing-button{
+color:#942b2b;
+cursor:pointer;
+display:inline-block;
+font:normal bold 14px Montserrat, sans-serif;
+line-height:normal;
+word-break:normal
+}
+.post-sidebar-labels li{
+margin-bottom:8px
+}
+body.item-view .widget.Blog .post{
+width:682px
+}
+.widget.Blog .post.no-featured-image,.widget.PopularPosts .post.no-featured-image{
+padding:100px 65px
+}
+.page .widget.FeaturedPost .post-content{
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex;
+-webkit-box-pack:justify;
+-webkit-justify-content:space-between;
+-ms-flex-pack:justify;
+justify-content:space-between
+}
+.page .widget.FeaturedPost .thumb-link{
+display:-webkit-box;
+display:-webkit-flex;
+display:-ms-flexbox;
+display:flex
+}
+.page .widget.FeaturedPost .thumb.hero-thumb{
+height:auto;
+min-height:300px;
+width:451px
+}
+.page .widget.FeaturedPost .post-content.has-featured-image .post-text-container{
+width:425px
+}
+.page .widget.FeaturedPost .post-content.no-featured-image .post-text-container{
+width:100%
+}
+.page .widget.FeaturedPost .post-header{
+margin:0 0 8px 0
+}
+.page .widget.FeaturedPost .post-footer{
+margin:8px 0 0 0
+}
+.post-body{
+font:normal 400 16px Lora, serif;
+line-height:1.7
+}
+.post-body blockquote{
+font:normal 400 24px Montserrat, sans-serif;
+line-height:1.7
+}
+.snippet-container,.snippet-fade{
+font:normal 400 16px Lora, serif;
+line-height:27.2px
+}
+.snippet-container{
+max-height:326.4px
+}
+.widget.Profile .individual .profile-data a,.widget.Profile .team .profile-name{
+font:normal bold 24px EB Garamond, serif
+}
+.widget.Profile .individual .profile-link,.widget.Profile .team .visit-profile{
+font:normal bold 14px Montserrat, sans-serif
+}
+}
+@media screen and (min-width:1440px){
+body{
+position:relative
+}
+.page_body{
+margin-left:284px
+}
+.sticky .centered-top{
+padding-left:284px
+}
+.hamburger-menu-container{
+display:none
+}
+.sidebar-container{
+overflow:visible;
+z-index:32
+}
+}
+.NPrinsh-progress-bar{
+background:linear-gradient(90deg,#ff0000 10%,#f000ff 90%);
+opacity:.99;
+position:fixed;
+top:0;
+left:0;
+height:12px;
+z-index:999;
+transition:all .4s cubic-bezier(.47,1.64,.41,.8);
+}
+:root {
+scroll-behavior: smooth;
+}
+body {
+margin: 1rem;
+}
+.stt {
+position: fixed;
+right: 2rem;
+bottom: 2rem;
+width: 3rem;
+height: 3rem;
+border-radius: 50%;
+background: rgb(128, 128, 255) url("data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 384 512'%3E%3Cpath fill='currentColor' d='M352 352c-8.188 0-16.38-3.125-22.62-9.375L192 205.3l-137.4 137.4c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25l160-160c12.5-12.5 32.75-12.5 45.25 0l160 160c12.5 12.5 12.5 32.75 0 45.25C368.4 348.9 360.2 352 352 352z'%3E%3C/path%3E%3C/svg%3E") center no-repeat;
+box-shadow: 0 0.25rem 0.5rem 0 gray;
+opacity: 2;
+}
+.stt:hover {
+opacity: 1;
+}
+.stt:focus {
+opacity: 2;
+}
+.stt:active {
+opacity: 2;
+}
+
+--></style>
+<style id='template-skin-1' type='text/css'><!--
+body#layout .hidden,
+body#layout .invisible {
+display: inherit;
+}
+body#layout .page {
+width: 60%;
+}
+body#layout.ltr .page {
+float: right;
+}
+body#layout.rtl .page {
+float: left;
+}
+body#layout .sidebar-container {
+width: 40%;
+}
+body#layout.ltr .sidebar-container {
+float: left;
+}
+body#layout.rtl .sidebar-container {
+float: right;
+}
+--></style>
+<script async='async' src='https://www.gstatic.com/external_hosted/imagesloaded/imagesloaded-3.1.8.min.js'></script>
+<script async='async' src='https://www.gstatic.com/external_hosted/vanillamasonry-v3_1_5/masonry.pkgd.min.js'></script>
+<script async='async' src='https://www.gstatic.com/external_hosted/clipboardjs/clipboard.min.js'></script>
+<style>
+    body.homepage-view .hero-image.has-image {background-image:url(https\:\/\/themes.googleusercontent.com\/image?id=1CVtjxVknoYTX4Kys5N435vB95BN7PXF9ste8Z9xYTvHN-Jk5cSh1TVfGsJ5WiV71Qz_-);}
+    
+@media (max-width: 320px) { body.homepage-view .hero-image.has-image {background-image:url(https\:\/\/themes.googleusercontent.com\/image?id=1CVtjxVknoYTX4Kys5N435vB95BN7PXF9ste8Z9xYTvHN-Jk5cSh1TVfGsJ5WiV71Qz_-&options=w320);}}
+@media (max-width: 640px) and (min-width: 321px) { body.homepage-view .hero-image.has-image {background-image:url(https\:\/\/themes.googleusercontent.com\/image?id=1CVtjxVknoYTX4Kys5N435vB95BN7PXF9ste8Z9xYTvHN-Jk5cSh1TVfGsJ5WiV71Qz_-&options=w640);}}
+@media (max-width: 800px) and (min-width: 641px) { body.homepage-view .hero-image.has-image {background-image:url(https\:\/\/themes.googleusercontent.com\/image?id=1CVtjxVknoYTX4Kys5N435vB95BN7PXF9ste8Z9xYTvHN-Jk5cSh1TVfGsJ5WiV71Qz_-&options=w800);}}
+@media (max-width: 1024px) and (min-width: 801px) { body.homepage-view .hero-image.has-image {background-image:url(https\:\/\/themes.googleusercontent.com\/image?id=1CVtjxVknoYTX4Kys5N435vB95BN7PXF9ste8Z9xYTvHN-Jk5cSh1TVfGsJ5WiV71Qz_-&options=w1024);}}
+@media (max-width: 1440px) and (min-width: 1025px) { body.homepage-view .hero-image.has-image {background-image:url(https\:\/\/themes.googleusercontent.com\/image?id=1CVtjxVknoYTX4Kys5N435vB95BN7PXF9ste8Z9xYTvHN-Jk5cSh1TVfGsJ5WiV71Qz_-&options=w1440);}}
+@media (max-width: 1680px) and (min-width: 1441px) { body.homepage-view .hero-image.has-image {background-image:url(https\:\/\/themes.googleusercontent.com\/image?id=1CVtjxVknoYTX4Kys5N435vB95BN7PXF9ste8Z9xYTvHN-Jk5cSh1TVfGsJ5WiV71Qz_-&options=w1680);}}
+@media (max-width: 1920px) and (min-width: 1681px) { body.homepage-view .hero-image.has-image {background-image:url(https\:\/\/themes.googleusercontent.com\/image?id=1CVtjxVknoYTX4Kys5N435vB95BN7PXF9ste8Z9xYTvHN-Jk5cSh1TVfGsJ5WiV71Qz_-&options=w1920);}}
+/* Last tag covers anything over one higher than the previous max-size cap. */
+@media (min-width: 1921px) { body.homepage-view .hero-image.has-image {background-image:url(https\:\/\/themes.googleusercontent.com\/image?id=1CVtjxVknoYTX4Kys5N435vB95BN7PXF9ste8Z9xYTvHN-Jk5cSh1TVfGsJ5WiV71Qz_-&options=w2560);}}
+  </style>
+<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
+<meta name='google-adsense-platform-domain' content='blogspot.com'/>
+
+</head>
+<body class='homepage-view feed-view version-1-3-3'>
+<div class='preloader'>
+<div class='loading'>
+<img src='https://cdn.statically.io/img/i.pinimg.com/originals/4f/43/2d/4f432d9234988a5f33b26e0ba06bc6fe.gif' width='500'/>
+<p>
+</p>
+</div>
+</div>
+<div class='NPrinsh-progress-bar' id='scrollbar-NPrinsh'></div>
+<a class='skip-navigation' href='#main' tabindex='0'>
+Langsung ke konten utama
+</a>
+<div class='page'>
+<div class='page_body'>
+<div class='main-page-body-content'>
+<div class='centered-top-placeholder'></div>
+<header class='centered-top-container' role='banner'>
+<div class='centered-top'>
+<div class='hamburger-menu-container'>
+<svg class='svg-icon-24 touch-icon hamburger-menu'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_menu_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+</div>
+<div class='search'>
+<button aria-label='Telusuri' class='search-expand touch-icon-button'>
+<div class='search-expand-text'>Telusuri</div>
+<svg class='svg-icon-24 touch-icon search-expand-icon'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_search_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+</button>
+<div class='section' id='search_top' name='Search (Top)'><div class='widget BlogSearch' data-version='2' id='BlogSearch1'>
+<h3 class='title'>
+Cari
+</h3>
+<div class='widget-content' role='search'>
+<form action='https://www.kibloggers.eu.org/search' target='_top'>
+<div class='search-input'>
+<input aria-label='Cari blog ini' autocomplete='off' name='q' placeholder='Cari blog ini' value=''/>
+</div>
+<label>
+<input type='submit'/>
+<svg class='svg-icon-24 touch-icon search-icon'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_search_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+</label>
+</form>
+</div>
+</div></div>
+</div>
+<div class='blog-name'>
+<div class='section' id='header' name='Tajuk'><div class='widget Header' data-version='2' id='Header1'>
+<div class='header-widget'>
+<div>
+<h1>
+𝗥𝗜𝗙𝗞𝗜  𝗕𝗟𝗢𝗚𝗚𝗘𝗥𝗦
+</h1>
+</div>
+<p>
+</p>
+</div>
+</div></div>
+<nav role='navigation'>
+<div class='no-items section' id='page_list_top' name='Daftar Halaman (Atas)'>
+</div>
+</nav>
+</div>
+</div>
+</header>
+<div class='hero-image has-image'>
+</div>
+<main class='centered-bottom' id='main' role='main' tabindex='-1'>
+<h2 class='main-heading'>Postingan</h2>
+<div class='main section' id='page_body' name='Badan Halaman'>
+<div class='widget Profile' data-version='2' id='Profile1'>
+<div class='widget-content individual'>
+<a href='https://www.blogger.com/profile/07542779819567775505' rel='nofollow'>
+<img alt='Foto saya' class='profile-img' height='120' src='//3.bp.blogspot.com/-UM0nQwVx4ik/Y4IDRUOVRbI/AAAAAAAAAac/ZLBwzjF9sPwFgIVPJhxDc3Z7UZ4sb_30gCK4BGAYYCw/s120-pf/my-pict.jpg' width='120'/>
+</a>
+<div class='profile-info'>
+<dl class='profile-datablock has-location'>
+<dt class='profile-data'>
+<a class='profile-link g-profile' href='https://www.blogger.com/profile/07542779819567775505' rel='author nofollow'>
+Muhammad Rifki
+</a>
+</dt>
+<dd class='profile-data location'>Subang, Jawa Barat, Indonesia</dd>
+</dl>
+<a class='profile-link' href='https://www.blogger.com/profile/07542779819567775505' rel='author'>
+Kunjungi profil
+</a>
+</div>
+</div>
+</div><div class='widget HTML' data-version='2' id='HTML2'>
+<div class='widget-content'>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-6353e4916b0ceb3a"></script>
+
+                <!-- Go to www.addthis.com/dashboard to customize your tools -->
+                <div class="addthis_inline_follow_toolbox"></div>
+</div>
+</div><div class='widget Blog' data-version='2' id='Blog1'>
+<h3 class='title'>Postingan Terbaru</h3>
+<div class='blog-posts hfeed container'>
+<div class='post-outer-container'>
+<div class='post-outer'>
+<div class='post has-featured-image'>
+<script type='application/ld+json'>{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.kibloggers.eu.org/2022/12/piala-dunia-sejarah-singkat-trofi.html"
+  },
+  "headline": "PIALA DUNIA | SEJARAH SINGKAT, TROFI \u0026amp; MASKOT TERKENALNYA","description": "&#160; Sejarah Piala Dunia harus dimulai dengan mengetahui, apa itu Piala Dunia? Piala Dunia adalah kompetisi terpenting dalam dunia sepakbola in...","datePublished": "2022-12-01T05:38:00+07:00",
+  "dateModified": "2022-12-04T10:26:40+07:00","image": {
+    "@type": "ImageObject","url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT2zl9Bes1VbF631GhZgyjXx1wSokgEnX2y5O1P_Jd2GRP1LqSr60FDPFw0WoWX_aKVjOmIXGQTQT9Lk4XJ-jSi7bwxIjMS24Bz_npMHEEQtvarbEzmDMIc8QxAEyTvDZCaKCBfKQwFcK1FNay47gAcQZwuFsJncD6ptYioWcV4SdFqYq_a2ZetfWqZg/w1200-h630-p-k-no-nu/master_91mJ4e5q8K_1379.jpg",
+    "height": 630,
+    "width": 1200},"publisher": {
+    "@type": "Organization",
+    "name": "Blogger",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://blogger.googleusercontent.com/img/b/U2hvZWJveA/AVvXsEgfMvYAhAbdHksiBA24JKmb2Tav6K0GviwztID3Cq4VpV96HaJfy0viIu8z1SSw_G9n5FQHZWSRao61M3e58ImahqBtr7LiOUS6m_w59IvDYwjmMcbq3fKW4JSbacqkbxTo8B90dWp0Cese92xfLMPe_tg11g/h60/",
+      "width": 206,
+      "height": 60
+    }
+  },"author": {
+    "@type": "Person",
+    "name": "Muhammad Rifki"
+  }
+}</script>
+<div class='snippet-thumbnail'>
+<a href='https://www.kibloggers.eu.org/2022/12/piala-dunia-sejarah-singkat-trofi.html'>
+<img alt='Gambar' sizes='(max-width: 576px) 100vw, (max-width: 1024px) 576px, 490px' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT2zl9Bes1VbF631GhZgyjXx1wSokgEnX2y5O1P_Jd2GRP1LqSr60FDPFw0WoWX_aKVjOmIXGQTQT9Lk4XJ-jSi7bwxIjMS24Bz_npMHEEQtvarbEzmDMIc8QxAEyTvDZCaKCBfKQwFcK1FNay47gAcQZwuFsJncD6ptYioWcV4SdFqYq_a2ZetfWqZg/s320/master_91mJ4e5q8K_1379.jpg' srcset='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT2zl9Bes1VbF631GhZgyjXx1wSokgEnX2y5O1P_Jd2GRP1LqSr60FDPFw0WoWX_aKVjOmIXGQTQT9Lk4XJ-jSi7bwxIjMS24Bz_npMHEEQtvarbEzmDMIc8QxAEyTvDZCaKCBfKQwFcK1FNay47gAcQZwuFsJncD6ptYioWcV4SdFqYq_a2ZetfWqZg/w320/master_91mJ4e5q8K_1379.jpg 320w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT2zl9Bes1VbF631GhZgyjXx1wSokgEnX2y5O1P_Jd2GRP1LqSr60FDPFw0WoWX_aKVjOmIXGQTQT9Lk4XJ-jSi7bwxIjMS24Bz_npMHEEQtvarbEzmDMIc8QxAEyTvDZCaKCBfKQwFcK1FNay47gAcQZwuFsJncD6ptYioWcV4SdFqYq_a2ZetfWqZg/w490/master_91mJ4e5q8K_1379.jpg 490w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT2zl9Bes1VbF631GhZgyjXx1wSokgEnX2y5O1P_Jd2GRP1LqSr60FDPFw0WoWX_aKVjOmIXGQTQT9Lk4XJ-jSi7bwxIjMS24Bz_npMHEEQtvarbEzmDMIc8QxAEyTvDZCaKCBfKQwFcK1FNay47gAcQZwuFsJncD6ptYioWcV4SdFqYq_a2ZetfWqZg/w576/master_91mJ4e5q8K_1379.jpg 576w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT2zl9Bes1VbF631GhZgyjXx1wSokgEnX2y5O1P_Jd2GRP1LqSr60FDPFw0WoWX_aKVjOmIXGQTQT9Lk4XJ-jSi7bwxIjMS24Bz_npMHEEQtvarbEzmDMIc8QxAEyTvDZCaKCBfKQwFcK1FNay47gAcQZwuFsJncD6ptYioWcV4SdFqYq_a2ZetfWqZg/w1152/master_91mJ4e5q8K_1379.jpg 1152w'/>
+</a>
+<div class='post-header'>
+<div class='post-header-line-1'>
+<span class='byline post-author vcard'>
+<span class='post-author-label'>
+Oleh
+</span>
+<span class='fn'>
+<meta content='https://www.blogger.com/profile/07542779819567775505'/>
+<a class='g-profile' href='https://www.blogger.com/profile/07542779819567775505' rel='author' title='author profile'>
+<span>Muhammad Rifki</span>
+</a>
+</span>
+</span>
+<span class='byline post-timestamp'>
+<meta content='https://www.kibloggers.eu.org/2022/12/piala-dunia-sejarah-singkat-trofi.html'/>
+<a class='timestamp-link' href='https://www.kibloggers.eu.org/2022/12/piala-dunia-sejarah-singkat-trofi.html' rel='bookmark' title='permanent link'>
+<time class='published' datetime='2022-12-01T05:38:00+07:00' title='2022-12-01T05:38:00+07:00'>
+Desember 01, 2022
+</time>
+</a>
+</span>
+</div>
+</div>
+</div>
+<a name='6901031253433237649'></a>
+<h3 class='post-title entry-title'>
+<a href='https://www.kibloggers.eu.org/2022/12/piala-dunia-sejarah-singkat-trofi.html'>PIALA DUNIA | SEJARAH SINGKAT, TROFI &amp; MASKOT TERKENALNYA</a>
+</h3>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-0'>
+<div class='byline post-share-buttons goog-inline-block'>
+<div aria-owns='sharing-popup-Blog1-footer-0-6901031253433237649' class='sharing' data-title='PIALA DUNIA | SEJARAH SINGKAT, TROFI &amp; MASKOT TERKENALNYA'>
+<button aria-controls='sharing-popup-Blog1-footer-0-6901031253433237649' aria-label='Berbagi' class='sharing-button touch-icon-button' id='sharing-button-Blog1-footer-0-6901031253433237649' role='button'>
+Berbagi
+</button>
+<div class='share-buttons-container'>
+<ul aria-hidden='true' aria-label='Berbagi' class='share-buttons hidden' id='sharing-popup-Blog1-footer-0-6901031253433237649' role='menu'>
+<li>
+<span aria-label='Dapatkan link' class='sharing-platform-button sharing-element-link' data-href='https://www.blogger.com/share-post.g?blogID=6062206140853919332&postID=6901031253433237649&target=' data-url='https://www.kibloggers.eu.org/2022/12/piala-dunia-sejarah-singkat-trofi.html' role='menuitem' tabindex='-1' title='Dapatkan link'>
+<svg class='svg-icon-24 touch-icon sharing-link'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_link_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Dapatkan link</span>
+</span>
+</li>
+<li>
+<span aria-label='Bagikan ke Facebook' class='sharing-platform-button sharing-element-facebook' data-href='https://www.blogger.com/share-post.g?blogID=6062206140853919332&postID=6901031253433237649&target=facebook' data-url='https://www.kibloggers.eu.org/2022/12/piala-dunia-sejarah-singkat-trofi.html' role='menuitem' tabindex='-1' title='Bagikan ke Facebook'>
+<svg class='svg-icon-24 touch-icon sharing-facebook'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_facebook_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Facebook</span>
+</span>
+</li>
+<li>
+<span aria-label='Bagikan ke Twitter' class='sharing-platform-button sharing-element-twitter' data-href='https://www.blogger.com/share-post.g?blogID=6062206140853919332&postID=6901031253433237649&target=twitter' data-url='https://www.kibloggers.eu.org/2022/12/piala-dunia-sejarah-singkat-trofi.html' role='menuitem' tabindex='-1' title='Bagikan ke Twitter'>
+<svg class='svg-icon-24 touch-icon sharing-twitter'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_twitter_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Twitter</span>
+</span>
+</li>
+<li>
+<span aria-label='Bagikan ke Pinterest' class='sharing-platform-button sharing-element-pinterest' data-href='https://www.blogger.com/share-post.g?blogID=6062206140853919332&postID=6901031253433237649&target=pinterest' data-url='https://www.kibloggers.eu.org/2022/12/piala-dunia-sejarah-singkat-trofi.html' role='menuitem' tabindex='-1' title='Bagikan ke Pinterest'>
+<svg class='svg-icon-24 touch-icon sharing-pinterest'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_pinterest_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Pinterest</span>
+</span>
+</li>
+<li>
+<span aria-label='Email' class='sharing-platform-button sharing-element-email' data-href='https://www.blogger.com/share-post.g?blogID=6062206140853919332&postID=6901031253433237649&target=email' data-url='https://www.kibloggers.eu.org/2022/12/piala-dunia-sejarah-singkat-trofi.html' role='menuitem' tabindex='-1' title='Email'>
+<svg class='svg-icon-24 touch-icon sharing-email'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_email_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Email</span>
+</span>
+</li>
+<li aria-hidden='true' class='hidden'>
+<span aria-label='Bagikan ke aplikasi lainnya' class='sharing-platform-button sharing-element-other' data-url='https://www.kibloggers.eu.org/2022/12/piala-dunia-sejarah-singkat-trofi.html' role='menuitem' tabindex='-1' title='Bagikan ke aplikasi lainnya'>
+<svg class='svg-icon-24 touch-icon sharing-sharingOther'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_more_horiz_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Aplikasi Lainnya</span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<span class='byline post-comment-link container'>
+<a class='comment-link' href='https://www.kibloggers.eu.org/2022/12/piala-dunia-sejarah-singkat-trofi.html#comments' onclick=''>
+Posting Komentar
+</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer-container'>
+<div class='post-outer'>
+<div class='post has-featured-image'>
+<script type='application/ld+json'>{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.kibloggers.eu.org/2022/11/sejarah-lahirnya-hari-santri-nasional.html"
+  },
+  "headline": "Sejarah Lahirnya Hari Santri Nasional","description": "Tanggal 22 Oktober diperingati sebagai Hari Santri Nasional. Peringatan ini secara resmi ditetapkan oleh presiden Joko Widodo sejak tahun 20...","datePublished": "2022-11-22T19:46:00+07:00",
+  "dateModified": "2022-12-04T10:20:54+07:00","image": {
+    "@type": "ImageObject","url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGF9ekqkOdVxNHEhx6zqqsneGBI9U7LCSgUGnAFT50ETnkQt-TcuuwaP_g2qeymxDgIdHlLKdRiZyM8YITaXA5hYx1M6u1Z2z-W9IY-t66oOflrIge6PSBdYjuiYqDRdc_FuVff1oDsgQauXay-eOQWg5celVMU8JGrt90mjawqRc6z04TzTvVl_K-ug/w1200-h630-p-k-no-nu/pngtree-greeting-text-of-selamat-hari-santri-nasional-png-image_8658593.png",
+    "height": 630,
+    "width": 1200},"publisher": {
+    "@type": "Organization",
+    "name": "Blogger",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://blogger.googleusercontent.com/img/b/U2hvZWJveA/AVvXsEgfMvYAhAbdHksiBA24JKmb2Tav6K0GviwztID3Cq4VpV96HaJfy0viIu8z1SSw_G9n5FQHZWSRao61M3e58ImahqBtr7LiOUS6m_w59IvDYwjmMcbq3fKW4JSbacqkbxTo8B90dWp0Cese92xfLMPe_tg11g/h60/",
+      "width": 206,
+      "height": 60
+    }
+  },"author": {
+    "@type": "Person",
+    "name": "Muhammad Rifki"
+  }
+}</script>
+<div class='snippet-thumbnail'>
+<a href='https://www.kibloggers.eu.org/2022/11/sejarah-lahirnya-hari-santri-nasional.html'>
+<img alt='Gambar' sizes='(max-width: 576px) 100vw, (max-width: 1024px) 576px, 490px' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGF9ekqkOdVxNHEhx6zqqsneGBI9U7LCSgUGnAFT50ETnkQt-TcuuwaP_g2qeymxDgIdHlLKdRiZyM8YITaXA5hYx1M6u1Z2z-W9IY-t66oOflrIge6PSBdYjuiYqDRdc_FuVff1oDsgQauXay-eOQWg5celVMU8JGrt90mjawqRc6z04TzTvVl_K-ug/s320/pngtree-greeting-text-of-selamat-hari-santri-nasional-png-image_8658593.png' srcset='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGF9ekqkOdVxNHEhx6zqqsneGBI9U7LCSgUGnAFT50ETnkQt-TcuuwaP_g2qeymxDgIdHlLKdRiZyM8YITaXA5hYx1M6u1Z2z-W9IY-t66oOflrIge6PSBdYjuiYqDRdc_FuVff1oDsgQauXay-eOQWg5celVMU8JGrt90mjawqRc6z04TzTvVl_K-ug/w320/pngtree-greeting-text-of-selamat-hari-santri-nasional-png-image_8658593.png 320w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGF9ekqkOdVxNHEhx6zqqsneGBI9U7LCSgUGnAFT50ETnkQt-TcuuwaP_g2qeymxDgIdHlLKdRiZyM8YITaXA5hYx1M6u1Z2z-W9IY-t66oOflrIge6PSBdYjuiYqDRdc_FuVff1oDsgQauXay-eOQWg5celVMU8JGrt90mjawqRc6z04TzTvVl_K-ug/w490/pngtree-greeting-text-of-selamat-hari-santri-nasional-png-image_8658593.png 490w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGF9ekqkOdVxNHEhx6zqqsneGBI9U7LCSgUGnAFT50ETnkQt-TcuuwaP_g2qeymxDgIdHlLKdRiZyM8YITaXA5hYx1M6u1Z2z-W9IY-t66oOflrIge6PSBdYjuiYqDRdc_FuVff1oDsgQauXay-eOQWg5celVMU8JGrt90mjawqRc6z04TzTvVl_K-ug/w576/pngtree-greeting-text-of-selamat-hari-santri-nasional-png-image_8658593.png 576w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGF9ekqkOdVxNHEhx6zqqsneGBI9U7LCSgUGnAFT50ETnkQt-TcuuwaP_g2qeymxDgIdHlLKdRiZyM8YITaXA5hYx1M6u1Z2z-W9IY-t66oOflrIge6PSBdYjuiYqDRdc_FuVff1oDsgQauXay-eOQWg5celVMU8JGrt90mjawqRc6z04TzTvVl_K-ug/w1152/pngtree-greeting-text-of-selamat-hari-santri-nasional-png-image_8658593.png 1152w'/>
+</a>
+<div class='post-header'>
+<div class='post-header-line-1'>
+<span class='byline post-author vcard'>
+<span class='post-author-label'>
+Oleh
+</span>
+<span class='fn'>
+<meta content='https://www.blogger.com/profile/07542779819567775505'/>
+<a class='g-profile' href='https://www.blogger.com/profile/07542779819567775505' rel='author' title='author profile'>
+<span>Muhammad Rifki</span>
+</a>
+</span>
+</span>
+<span class='byline post-timestamp'>
+<meta content='https://www.kibloggers.eu.org/2022/11/sejarah-lahirnya-hari-santri-nasional.html'/>
+<a class='timestamp-link' href='https://www.kibloggers.eu.org/2022/11/sejarah-lahirnya-hari-santri-nasional.html' rel='bookmark' title='permanent link'>
+<time class='published' datetime='2022-11-22T19:46:00+07:00' title='2022-11-22T19:46:00+07:00'>
+November 22, 2022
+</time>
+</a>
+</span>
+</div>
+</div>
+</div>
+<a name='4658796613261295755'></a>
+<h3 class='post-title entry-title'>
+<a href='https://www.kibloggers.eu.org/2022/11/sejarah-lahirnya-hari-santri-nasional.html'>Sejarah Lahirnya Hari Santri Nasional</a>
+</h3>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-0'>
+<div class='byline post-share-buttons goog-inline-block'>
+<div aria-owns='sharing-popup-Blog1-footer-0-4658796613261295755' class='sharing' data-title='Sejarah Lahirnya Hari Santri Nasional'>
+<button aria-controls='sharing-popup-Blog1-footer-0-4658796613261295755' aria-label='Berbagi' class='sharing-button touch-icon-button' id='sharing-button-Blog1-footer-0-4658796613261295755' role='button'>
+Berbagi
+</button>
+<div class='share-buttons-container'>
+<ul aria-hidden='true' aria-label='Berbagi' class='share-buttons hidden' id='sharing-popup-Blog1-footer-0-4658796613261295755' role='menu'>
+<li>
+<span aria-label='Dapatkan link' class='sharing-platform-button sharing-element-link' data-href='https://www.blogger.com/share-post.g?blogID=6062206140853919332&postID=4658796613261295755&target=' data-url='https://www.kibloggers.eu.org/2022/11/sejarah-lahirnya-hari-santri-nasional.html' role='menuitem' tabindex='-1' title='Dapatkan link'>
+<svg class='svg-icon-24 touch-icon sharing-link'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_link_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Dapatkan link</span>
+</span>
+</li>
+<li>
+<span aria-label='Bagikan ke Facebook' class='sharing-platform-button sharing-element-facebook' data-href='https://www.blogger.com/share-post.g?blogID=6062206140853919332&postID=4658796613261295755&target=facebook' data-url='https://www.kibloggers.eu.org/2022/11/sejarah-lahirnya-hari-santri-nasional.html' role='menuitem' tabindex='-1' title='Bagikan ke Facebook'>
+<svg class='svg-icon-24 touch-icon sharing-facebook'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_facebook_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Facebook</span>
+</span>
+</li>
+<li>
+<span aria-label='Bagikan ke Twitter' class='sharing-platform-button sharing-element-twitter' data-href='https://www.blogger.com/share-post.g?blogID=6062206140853919332&postID=4658796613261295755&target=twitter' data-url='https://www.kibloggers.eu.org/2022/11/sejarah-lahirnya-hari-santri-nasional.html' role='menuitem' tabindex='-1' title='Bagikan ke Twitter'>
+<svg class='svg-icon-24 touch-icon sharing-twitter'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_twitter_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Twitter</span>
+</span>
+</li>
+<li>
+<span aria-label='Bagikan ke Pinterest' class='sharing-platform-button sharing-element-pinterest' data-href='https://www.blogger.com/share-post.g?blogID=6062206140853919332&postID=4658796613261295755&target=pinterest' data-url='https://www.kibloggers.eu.org/2022/11/sejarah-lahirnya-hari-santri-nasional.html' role='menuitem' tabindex='-1' title='Bagikan ke Pinterest'>
+<svg class='svg-icon-24 touch-icon sharing-pinterest'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_pinterest_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Pinterest</span>
+</span>
+</li>
+<li>
+<span aria-label='Email' class='sharing-platform-button sharing-element-email' data-href='https://www.blogger.com/share-post.g?blogID=6062206140853919332&postID=4658796613261295755&target=email' data-url='https://www.kibloggers.eu.org/2022/11/sejarah-lahirnya-hari-santri-nasional.html' role='menuitem' tabindex='-1' title='Email'>
+<svg class='svg-icon-24 touch-icon sharing-email'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_email_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Email</span>
+</span>
+</li>
+<li aria-hidden='true' class='hidden'>
+<span aria-label='Bagikan ke aplikasi lainnya' class='sharing-platform-button sharing-element-other' data-url='https://www.kibloggers.eu.org/2022/11/sejarah-lahirnya-hari-santri-nasional.html' role='menuitem' tabindex='-1' title='Bagikan ke aplikasi lainnya'>
+<svg class='svg-icon-24 touch-icon sharing-sharingOther'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_more_horiz_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Aplikasi Lainnya</span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<span class='byline post-comment-link container'>
+<a class='comment-link' href='https://www.kibloggers.eu.org/2022/11/sejarah-lahirnya-hari-santri-nasional.html#comments' onclick=''>
+Posting Komentar
+</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer-container'>
+<div class='post-outer'>
+<div class='post has-featured-image'>
+<script type='application/ld+json'>{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.kibloggers.eu.org/2022/11/ada-yang-tahu-kenapa-hari-minggu.html"
+  },
+  "headline": "ADA YANG TAHU, KENAPA HARI MINGGU DITETAPKAN SEBAGAI HARI LIBUR ?!","description": "Minggu atau Ahad adalah hari pertama dalam satu pekan. Menurut nomor standar ISO 8601 oleh Organisasi Standardisasi Internasional, hari Ming...","datePublished": "2022-11-13T12:40:00+07:00",
+  "dateModified": "2022-12-04T10:20:54+07:00","image": {
+    "@type": "ImageObject","url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh2_Qr8bDxdlEorExwpcDId3qZMVfbSIfyMULNPyiNYwCsWZay2g7tnq-ya8EHEjW7RY28hrhHFRD4-dPYLlbKjavRuQfAS_jCn0smuY37ykOEp9y4FCQ8jx755yIGwdi86seXojs_v_QNfoRbIVc4SvKBl_WYDjPNheX5w8djgJt6OzfFasRP_azTaA/w1200-h630-p-k-no-nu/sunday-quotes-index-1585055167.jpg",
+    "height": 630,
+    "width": 1200},"publisher": {
+    "@type": "Organization",
+    "name": "Blogger",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://blogger.googleusercontent.com/img/b/U2hvZWJveA/AVvXsEgfMvYAhAbdHksiBA24JKmb2Tav6K0GviwztID3Cq4VpV96HaJfy0viIu8z1SSw_G9n5FQHZWSRao61M3e58ImahqBtr7LiOUS6m_w59IvDYwjmMcbq3fKW4JSbacqkbxTo8B90dWp0Cese92xfLMPe_tg11g/h60/",
+      "width": 206,
+      "height": 60
+    }
+  },"author": {
+    "@type": "Person",
+    "name": "Muhammad Rifki"
+  }
+}</script>
+<div class='snippet-thumbnail'>
+<a href='https://www.kibloggers.eu.org/2022/11/ada-yang-tahu-kenapa-hari-minggu.html'>
+<img alt='Gambar' sizes='(max-width: 576px) 100vw, (max-width: 1024px) 576px, 490px' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh2_Qr8bDxdlEorExwpcDId3qZMVfbSIfyMULNPyiNYwCsWZay2g7tnq-ya8EHEjW7RY28hrhHFRD4-dPYLlbKjavRuQfAS_jCn0smuY37ykOEp9y4FCQ8jx755yIGwdi86seXojs_v_QNfoRbIVc4SvKBl_WYDjPNheX5w8djgJt6OzfFasRP_azTaA/s320/sunday-quotes-index-1585055167.jpg' srcset='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh2_Qr8bDxdlEorExwpcDId3qZMVfbSIfyMULNPyiNYwCsWZay2g7tnq-ya8EHEjW7RY28hrhHFRD4-dPYLlbKjavRuQfAS_jCn0smuY37ykOEp9y4FCQ8jx755yIGwdi86seXojs_v_QNfoRbIVc4SvKBl_WYDjPNheX5w8djgJt6OzfFasRP_azTaA/w320/sunday-quotes-index-1585055167.jpg 320w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh2_Qr8bDxdlEorExwpcDId3qZMVfbSIfyMULNPyiNYwCsWZay2g7tnq-ya8EHEjW7RY28hrhHFRD4-dPYLlbKjavRuQfAS_jCn0smuY37ykOEp9y4FCQ8jx755yIGwdi86seXojs_v_QNfoRbIVc4SvKBl_WYDjPNheX5w8djgJt6OzfFasRP_azTaA/w490/sunday-quotes-index-1585055167.jpg 490w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh2_Qr8bDxdlEorExwpcDId3qZMVfbSIfyMULNPyiNYwCsWZay2g7tnq-ya8EHEjW7RY28hrhHFRD4-dPYLlbKjavRuQfAS_jCn0smuY37ykOEp9y4FCQ8jx755yIGwdi86seXojs_v_QNfoRbIVc4SvKBl_WYDjPNheX5w8djgJt6OzfFasRP_azTaA/w576/sunday-quotes-index-1585055167.jpg 576w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh2_Qr8bDxdlEorExwpcDId3qZMVfbSIfyMULNPyiNYwCsWZay2g7tnq-ya8EHEjW7RY28hrhHFRD4-dPYLlbKjavRuQfAS_jCn0smuY37ykOEp9y4FCQ8jx755yIGwdi86seXojs_v_QNfoRbIVc4SvKBl_WYDjPNheX5w8djgJt6OzfFasRP_azTaA/w1152/sunday-quotes-index-1585055167.jpg 1152w'/>
+</a>
+<div class='post-header'>
+<div class='post-header-line-1'>
+<span class='byline post-author vcard'>
+<span class='post-author-label'>
+Oleh
+</span>
+<span class='fn'>
+<meta content='https://www.blogger.com/profile/07542779819567775505'/>
+<a class='g-profile' href='https://www.blogger.com/profile/07542779819567775505' rel='author' title='author profile'>
+<span>Muhammad Rifki</span>
+</a>
+</span>
+</span>
+<span class='byline post-timestamp'>
+<meta content='https://www.kibloggers.eu.org/2022/11/ada-yang-tahu-kenapa-hari-minggu.html'/>
+<a class='timestamp-link' href='https://www.kibloggers.eu.org/2022/11/ada-yang-tahu-kenapa-hari-minggu.html' rel='bookmark' title='permanent link'>
+<time class='published' datetime='2022-11-13T12:40:00+07:00' title='2022-11-13T12:40:00+07:00'>
+November 13, 2022
+</time>
+</a>
+</span>
+</div>
+</div>
+</div>
+<a name='6188975931268865115'></a>
+<h3 class='post-title entry-title'>
+<a href='https://www.kibloggers.eu.org/2022/11/ada-yang-tahu-kenapa-hari-minggu.html'>ADA YANG TAHU, KENAPA HARI MINGGU DITETAPKAN SEBAGAI HARI LIBUR ?!</a>
+</h3>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-0'>
+<div class='byline post-share-buttons goog-inline-block'>
+<div aria-owns='sharing-popup-Blog1-footer-0-6188975931268865115' class='sharing' data-title='ADA YANG TAHU, KENAPA HARI MINGGU DITETAPKAN SEBAGAI HARI LIBUR ?!'>
+<button aria-controls='sharing-popup-Blog1-footer-0-6188975931268865115' aria-label='Berbagi' class='sharing-button touch-icon-button' id='sharing-button-Blog1-footer-0-6188975931268865115' role='button'>
+Berbagi
+</button>
+<div class='share-buttons-container'>
+<ul aria-hidden='true' aria-label='Berbagi' class='share-buttons hidden' id='sharing-popup-Blog1-footer-0-6188975931268865115' role='menu'>
+<li>
+<span aria-label='Dapatkan link' class='sharing-platform-button sharing-element-link' data-href='https://www.blogger.com/share-post.g?blogID=6062206140853919332&postID=6188975931268865115&target=' data-url='https://www.kibloggers.eu.org/2022/11/ada-yang-tahu-kenapa-hari-minggu.html' role='menuitem' tabindex='-1' title='Dapatkan link'>
+<svg class='svg-icon-24 touch-icon sharing-link'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_link_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Dapatkan link</span>
+</span>
+</li>
+<li>
+<span aria-label='Bagikan ke Facebook' class='sharing-platform-button sharing-element-facebook' data-href='https://www.blogger.com/share-post.g?blogID=6062206140853919332&postID=6188975931268865115&target=facebook' data-url='https://www.kibloggers.eu.org/2022/11/ada-yang-tahu-kenapa-hari-minggu.html' role='menuitem' tabindex='-1' title='Bagikan ke Facebook'>
+<svg class='svg-icon-24 touch-icon sharing-facebook'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_facebook_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Facebook</span>
+</span>
+</li>
+<li>
+<span aria-label='Bagikan ke Twitter' class='sharing-platform-button sharing-element-twitter' data-href='https://www.blogger.com/share-post.g?blogID=6062206140853919332&postID=6188975931268865115&target=twitter' data-url='https://www.kibloggers.eu.org/2022/11/ada-yang-tahu-kenapa-hari-minggu.html' role='menuitem' tabindex='-1' title='Bagikan ke Twitter'>
+<svg class='svg-icon-24 touch-icon sharing-twitter'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_twitter_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Twitter</span>
+</span>
+</li>
+<li>
+<span aria-label='Bagikan ke Pinterest' class='sharing-platform-button sharing-element-pinterest' data-href='https://www.blogger.com/share-post.g?blogID=6062206140853919332&postID=6188975931268865115&target=pinterest' data-url='https://www.kibloggers.eu.org/2022/11/ada-yang-tahu-kenapa-hari-minggu.html' role='menuitem' tabindex='-1' title='Bagikan ke Pinterest'>
+<svg class='svg-icon-24 touch-icon sharing-pinterest'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_pinterest_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Pinterest</span>
+</span>
+</li>
+<li>
+<span aria-label='Email' class='sharing-platform-button sharing-element-email' data-href='https://www.blogger.com/share-post.g?blogID=6062206140853919332&postID=6188975931268865115&target=email' data-url='https://www.kibloggers.eu.org/2022/11/ada-yang-tahu-kenapa-hari-minggu.html' role='menuitem' tabindex='-1' title='Email'>
+<svg class='svg-icon-24 touch-icon sharing-email'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_email_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Email</span>
+</span>
+</li>
+<li aria-hidden='true' class='hidden'>
+<span aria-label='Bagikan ke aplikasi lainnya' class='sharing-platform-button sharing-element-other' data-url='https://www.kibloggers.eu.org/2022/11/ada-yang-tahu-kenapa-hari-minggu.html' role='menuitem' tabindex='-1' title='Bagikan ke aplikasi lainnya'>
+<svg class='svg-icon-24 touch-icon sharing-sharingOther'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_more_horiz_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Aplikasi Lainnya</span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<span class='byline post-comment-link container'>
+<a class='comment-link' href='https://www.kibloggers.eu.org/2022/11/ada-yang-tahu-kenapa-hari-minggu.html#comments' onclick=''>
+Posting Komentar
+</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='post-outer-container'>
+<div class='post-outer'>
+<div class='post has-featured-image'>
+<script type='application/ld+json'>{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.kibloggers.eu.org/2022/11/hari-pahlawan-mengenang-pertempuran.html"
+  },
+  "headline": "HARI PAHLAWAN | Mengenang Pertempuran Besar di Surabaya","description": "&#160; Tanggal 10 November merupakan peringatan&#160; Hari Pahlawan &#160;untuk mengingat pertempuran yang terjadi pada 1945 beberapa bulan setelah Ir.&#160; So...","datePublished": "2022-11-10T20:40:00+07:00",
+  "dateModified": "2022-12-04T10:20:55+07:00","image": {
+    "@type": "ImageObject","url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu4a6e0twzgrc6XH7UpOHORMvTvdtbJ451DhCAc5xdJ-Ixuwv3xvUl1RbfNN3_jbGE6hguKkBOv5sCN4pS5dnMoemZgVfrYWNQz6zmakLAIRZilj0yiOk4Ag5u2wdbKfWbA1jDcoOI9wMTbM2CAnK_Ar_x7BBqi2GQxY0BNsoHg9-NdHMlBvXtKFjLFA/w1200-h630-p-k-no-nu/phlwn.png",
+    "height": 630,
+    "width": 1200},"publisher": {
+    "@type": "Organization",
+    "name": "Blogger",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://blogger.googleusercontent.com/img/b/U2hvZWJveA/AVvXsEgfMvYAhAbdHksiBA24JKmb2Tav6K0GviwztID3Cq4VpV96HaJfy0viIu8z1SSw_G9n5FQHZWSRao61M3e58ImahqBtr7LiOUS6m_w59IvDYwjmMcbq3fKW4JSbacqkbxTo8B90dWp0Cese92xfLMPe_tg11g/h60/",
+      "width": 206,
+      "height": 60
+    }
+  },"author": {
+    "@type": "Person",
+    "name": "Muhammad Rifki"
+  }
+}</script>
+<div class='snippet-thumbnail'>
+<a href='https://www.kibloggers.eu.org/2022/11/hari-pahlawan-mengenang-pertempuran.html'>
+<img alt='Gambar' sizes='(max-width: 576px) 100vw, (max-width: 1024px) 576px, 490px' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu4a6e0twzgrc6XH7UpOHORMvTvdtbJ451DhCAc5xdJ-Ixuwv3xvUl1RbfNN3_jbGE6hguKkBOv5sCN4pS5dnMoemZgVfrYWNQz6zmakLAIRZilj0yiOk4Ag5u2wdbKfWbA1jDcoOI9wMTbM2CAnK_Ar_x7BBqi2GQxY0BNsoHg9-NdHMlBvXtKFjLFA/s320/phlwn.png' srcset='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu4a6e0twzgrc6XH7UpOHORMvTvdtbJ451DhCAc5xdJ-Ixuwv3xvUl1RbfNN3_jbGE6hguKkBOv5sCN4pS5dnMoemZgVfrYWNQz6zmakLAIRZilj0yiOk4Ag5u2wdbKfWbA1jDcoOI9wMTbM2CAnK_Ar_x7BBqi2GQxY0BNsoHg9-NdHMlBvXtKFjLFA/w320/phlwn.png 320w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu4a6e0twzgrc6XH7UpOHORMvTvdtbJ451DhCAc5xdJ-Ixuwv3xvUl1RbfNN3_jbGE6hguKkBOv5sCN4pS5dnMoemZgVfrYWNQz6zmakLAIRZilj0yiOk4Ag5u2wdbKfWbA1jDcoOI9wMTbM2CAnK_Ar_x7BBqi2GQxY0BNsoHg9-NdHMlBvXtKFjLFA/w490/phlwn.png 490w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu4a6e0twzgrc6XH7UpOHORMvTvdtbJ451DhCAc5xdJ-Ixuwv3xvUl1RbfNN3_jbGE6hguKkBOv5sCN4pS5dnMoemZgVfrYWNQz6zmakLAIRZilj0yiOk4Ag5u2wdbKfWbA1jDcoOI9wMTbM2CAnK_Ar_x7BBqi2GQxY0BNsoHg9-NdHMlBvXtKFjLFA/w576/phlwn.png 576w, https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu4a6e0twzgrc6XH7UpOHORMvTvdtbJ451DhCAc5xdJ-Ixuwv3xvUl1RbfNN3_jbGE6hguKkBOv5sCN4pS5dnMoemZgVfrYWNQz6zmakLAIRZilj0yiOk4Ag5u2wdbKfWbA1jDcoOI9wMTbM2CAnK_Ar_x7BBqi2GQxY0BNsoHg9-NdHMlBvXtKFjLFA/w1152/phlwn.png 1152w'/>
+</a>
+<div class='post-header'>
+<div class='post-header-line-1'>
+<span class='byline post-author vcard'>
+<span class='post-author-label'>
+Oleh
+</span>
+<span class='fn'>
+<meta content='https://www.blogger.com/profile/07542779819567775505'/>
+<a class='g-profile' href='https://www.blogger.com/profile/07542779819567775505' rel='author' title='author profile'>
+<span>Muhammad Rifki</span>
+</a>
+</span>
+</span>
+<span class='byline post-timestamp'>
+<meta content='https://www.kibloggers.eu.org/2022/11/hari-pahlawan-mengenang-pertempuran.html'/>
+<a class='timestamp-link' href='https://www.kibloggers.eu.org/2022/11/hari-pahlawan-mengenang-pertempuran.html' rel='bookmark' title='permanent link'>
+<time class='published' datetime='2022-11-10T20:40:00+07:00' title='2022-11-10T20:40:00+07:00'>
+November 10, 2022
+</time>
+</a>
+</span>
+</div>
+</div>
+</div>
+<a name='6675822252721582643'></a>
+<h3 class='post-title entry-title'>
+<a href='https://www.kibloggers.eu.org/2022/11/hari-pahlawan-mengenang-pertempuran.html'>HARI PAHLAWAN | Mengenang Pertempuran Besar di Surabaya</a>
+</h3>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-0'>
+<div class='byline post-share-buttons goog-inline-block'>
+<div aria-owns='sharing-popup-Blog1-footer-0-6675822252721582643' class='sharing' data-title='HARI PAHLAWAN | Mengenang Pertempuran Besar di Surabaya'>
+<button aria-controls='sharing-popup-Blog1-footer-0-6675822252721582643' aria-label='Berbagi' class='sharing-button touch-icon-button' id='sharing-button-Blog1-footer-0-6675822252721582643' role='button'>
+Berbagi
+</button>
+<div class='share-buttons-container'>
+<ul aria-hidden='true' aria-label='Berbagi' class='share-buttons hidden' id='sharing-popup-Blog1-footer-0-6675822252721582643' role='menu'>
+<li>
+<span aria-label='Dapatkan link' class='sharing-platform-button sharing-element-link' data-href='https://www.blogger.com/share-post.g?blogID=6062206140853919332&postID=6675822252721582643&target=' data-url='https://www.kibloggers.eu.org/2022/11/hari-pahlawan-mengenang-pertempuran.html' role='menuitem' tabindex='-1' title='Dapatkan link'>
+<svg class='svg-icon-24 touch-icon sharing-link'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_link_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Dapatkan link</span>
+</span>
+</li>
+<li>
+<span aria-label='Bagikan ke Facebook' class='sharing-platform-button sharing-element-facebook' data-href='https://www.blogger.com/share-post.g?blogID=6062206140853919332&postID=6675822252721582643&target=facebook' data-url='https://www.kibloggers.eu.org/2022/11/hari-pahlawan-mengenang-pertempuran.html' role='menuitem' tabindex='-1' title='Bagikan ke Facebook'>
+<svg class='svg-icon-24 touch-icon sharing-facebook'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_facebook_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Facebook</span>
+</span>
+</li>
+<li>
+<span aria-label='Bagikan ke Twitter' class='sharing-platform-button sharing-element-twitter' data-href='https://www.blogger.com/share-post.g?blogID=6062206140853919332&postID=6675822252721582643&target=twitter' data-url='https://www.kibloggers.eu.org/2022/11/hari-pahlawan-mengenang-pertempuran.html' role='menuitem' tabindex='-1' title='Bagikan ke Twitter'>
+<svg class='svg-icon-24 touch-icon sharing-twitter'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_twitter_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Twitter</span>
+</span>
+</li>
+<li>
+<span aria-label='Bagikan ke Pinterest' class='sharing-platform-button sharing-element-pinterest' data-href='https://www.blogger.com/share-post.g?blogID=6062206140853919332&postID=6675822252721582643&target=pinterest' data-url='https://www.kibloggers.eu.org/2022/11/hari-pahlawan-mengenang-pertempuran.html' role='menuitem' tabindex='-1' title='Bagikan ke Pinterest'>
+<svg class='svg-icon-24 touch-icon sharing-pinterest'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_pinterest_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Pinterest</span>
+</span>
+</li>
+<li>
+<span aria-label='Email' class='sharing-platform-button sharing-element-email' data-href='https://www.blogger.com/share-post.g?blogID=6062206140853919332&postID=6675822252721582643&target=email' data-url='https://www.kibloggers.eu.org/2022/11/hari-pahlawan-mengenang-pertempuran.html' role='menuitem' tabindex='-1' title='Email'>
+<svg class='svg-icon-24 touch-icon sharing-email'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_24_email_dark' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Email</span>
+</span>
+</li>
+<li aria-hidden='true' class='hidden'>
+<span aria-label='Bagikan ke aplikasi lainnya' class='sharing-platform-button sharing-element-other' data-url='https://www.kibloggers.eu.org/2022/11/hari-pahlawan-mengenang-pertempuran.html' role='menuitem' tabindex='-1' title='Bagikan ke aplikasi lainnya'>
+<svg class='svg-icon-24 touch-icon sharing-sharingOther'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_more_horiz_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<span class='platform-sharing-text'>Aplikasi Lainnya</span>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<span class='byline post-comment-link container'>
+<a class='comment-link' href='https://www.kibloggers.eu.org/2022/11/hari-pahlawan-mengenang-pertempuran.html#comments' onclick=''>
+Posting Komentar
+</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='blog-pager container' id='blog-pager'>
+<a class='blog-pager-older-link' href='https://www.kibloggers.eu.org/search?updated-max=2022-11-10T20:40:00%2B07:00&max-results=4' id='Blog1_blog-pager-older-link' title='Postingan Lama'>
+Postingan Lama
+</a>
+</div>
+</div><div class='widget HTML' data-version='2' id='HTML4'>
+<div class='widget-content'>
+<script type="text/javascript" src="https://form.jotform.com/jsform/223383579907469"></script>
+</div>
+</div>
+</div>
+</main>
+</div>
+<footer class='footer section' id='footer' name='Footer'><div class='widget HTML' data-version='2' id='HTML3'>
+<div class='widget-content'>
+<script src="https://cdn.websitepolicies.io/lib/cookieconsent/cookieconsent.min.js" defer="defer" ></script><script>window.addEventListener("load",function(){window.wpcc.init({"colors":{"popup":{"background":"#222222","text":"#ffffff","border":"#b5e1a0"},"button":{"background":"#b5e1a0","text":"#000000"}},"fontsize":"large","margin":"large","corners":"large","padding":"large","content":{"button":"Accept"},"position":"top"})});</script>
+</div>
+</div><div class='widget HTML' data-version='2' id='HTML1'>
+<div class='widget-content'>
+<a class='stt' href='#' title='scroll to top'/></a>
+</div>
+</div></footer>
+</div>
+</div>
+<aside class='sidebar-container container sidebar-invisible' role='complementary'>
+<div class='navigation'>
+<svg class='svg-icon-24 touch-icon sidebar-back rtl-reversible-icon'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_arrow_back_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+</div>
+<div class='section' id='sidebar' name='Bilah Sisi'><div class='widget BlogArchive' data-version='2' id='BlogArchive1'>
+<details class='collapsible extendable'>
+<summary>
+<div class='collapsible-title'>
+<h3 class='title'>
+Daftar Isi
+</h3>
+<svg class='svg-icon-24 chevron-down'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_expand_more_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+<svg class='svg-icon-24 chevron-up'>
+<use xlink:href='/responsive/sprite_v1_6.css.svg#ic_expand_less_black_24dp' xmlns:xlink='http://www.w3.org/1999/xlink'></use>
+</svg>
+</div>
+</summary>
+<div class='widget-content'>
+<div id='ArchiveList'>
+<div id='BlogArchive1_ArchiveList'>
+<div class='first-items'>
+<ul class='hierarchy'>
+<li class='archivedate'>
+<div class='hierarchy-title'>
+<a class='post-count-link' href='https://www.kibloggers.eu.org/2022/'>
+2022
+<span class='post-count'>18</span>
+</a>
+</div>
+<div class='hierarchy-content'>
+<ul class='hierarchy'>
+<li class='archivedate'>
+<div class='hierarchy-title'>
+<a class='post-count-link' href='https://www.kibloggers.eu.org/2022/02/'>
+Februari
+<span class='post-count'>2</span>
+</a>
+</div>
+<div class='hierarchy-content'>
+</div>
+</li>
+<li class='archivedate'>
+<div class='hierarchy-title'>
+<a class='post-count-link' href='https://www.kibloggers.eu.org/2022/04/'>
+April
+<span class='post-count'>1</span>
+</a>
+</div>
+<div class='hierarchy-content'>
+</div>
+</li>
+<li class='archivedate'>
+<div class='hierarchy-title'>
+<a class='post-count-link' href='https://www.kibloggers.eu.org/2022/08/'>
+Agustus
+<span class='post-count'>1</span>
+</a>
+</div>
+<div class='hierarchy-content'>
+</div>
+</li>
+<li class='archivedate'>
+<div class='hierarchy-title'>
+<a class='post-count-link' href='https://www.kibloggers.eu.org/2022/09/'>
+September
+<span class='post-count'>2</span>
+</a>
+</div>
+<div class='hierarchy-content'>
+</div>
+</li>
+<li class='archivedate'>
+<div class='hierarchy-title'>
+<a class='post-count-link' href='https://www.kibloggers.eu.org/2022/10/'>
+Oktober
+<span class='post-count'>3</span>
+</a>
+</div>
+<div class='hierarchy-content'>
+</div>
+</li>
+<li class='archivedate'>
+<div class='hierarchy-title'>
+<a class='post-count-link' href='https://www.kibloggers.eu.org/2022/11/'>
+November
+<span class='post-count'>8</span>
+</a>
+</div>
+<div class='hierarchy-content'>
+</div>
+</li>
+<li class='archivedate'>
+<div class='hierarchy-title'>
+<a class='post-count-link' href='https://www.kibloggers.eu.org/2022/12/'>
+Desember
+<span class='post-count'>1</span>
+</a>
+</div>
+<div class='hierarchy-content'>
+<ul class='posts hierarchy'>
+<li>
+<a href='https://www.kibloggers.eu.org/2022/12/piala-dunia-sejarah-singkat-trofi.html'>PIALA DUNIA | SEJARAH SINGKAT, TROFI &amp; MASKOT TERK...</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</details>
+</div><div class='widget LinkList' data-version='2' id='LinkList1'>
+<div class='widget-content'>
+<ul>
+<li><a href='https://wa.me/6282121370332'>WhatsApp</a></li>
+<li><a href='https://t.me/ikkkiiiiiiii'>Telegram</a></li>
+<li><a href='https://rifkiez.home.blog'>WordPress Blog</a></li>
+<li><a href='https://news.google.com'>News</a></li>
+<li><a href='https://about.me/saya_rifki'>About me</a></li>
+<li><a href='https://support.google.com/blogger/?hl=id'>Help Center</a></li>
+</ul>
+</div>
+</div>
+</div>
+</aside>
+<script type="text/javascript" src="https://resources.blogblog.com/blogblog/data/res/951335549-fancy_compiled.js" async="true"></script>
+<script>
+window.addEventListener("scroll",scrollPrinsh);
+function scrollPrinsh(){
+var winScroll=document.body.scrollTop||document.documentElement.scrollTop;
+var height=document.documentElement.scrollHeight-document.documentElement.clientHeight;
+var scrolled=(winScroll/height)*100;
+document.getElementById("scrollbar-NPrinsh").style.width=scrolled+"%";
+          }</script>
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/2342155703-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY7jnx4XGiBPUomklvqgoWiqc-Z74A:1670281970587';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d6062206140853919332','//www.kibloggers.eu.org/','6062206140853919332');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '6062206140853919332', 'title': '\ud835\udde5\ud835\udddc\ud835\uddd9\ud835\uddde\ud835\udddc  \ud835\uddd5\ud835\udddf\ud835\udde2\ud835\uddda\ud835\uddda\ud835\uddd8\ud835\udde5\ud835\udde6', 'url': 'https://www.kibloggers.eu.org/', 'canonicalUrl': 'https://www.kibloggers.eu.org/', 'homepageUrl': 'https://www.kibloggers.eu.org/', 'searchUrl': 'https://www.kibloggers.eu.org/search', 'canonicalHomepageUrl': 'https://www.kibloggers.eu.org/', 'blogspotFaviconUrl': 'https://www.kibloggers.eu.org/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': true, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'id', 'localeUnderscoreDelimited': 'id', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22\ud835\udde5\ud835\udddc\ud835\uddd9\ud835\uddde\ud835\udddc  \ud835\uddd5\ud835\udddf\ud835\udde2\ud835\uddda\ud835\uddda\ud835\uddd8\ud835\udde5\ud835\udde6 - Atom\x22 href\x3d\x22https://www.kibloggers.eu.org/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22\ud835\udde5\ud835\udddc\ud835\uddd9\ud835\uddde\ud835\udddc  \ud835\uddd5\ud835\udddf\ud835\udde2\ud835\uddda\ud835\uddda\ud835\uddd8\ud835\udde5\ud835\udde6 - RSS\x22 href\x3d\x22https://www.kibloggers.eu.org/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22\ud835\udde5\ud835\udddc\ud835\uddd9\ud835\uddde\ud835\udddc  \ud835\uddd5\ud835\udddf\ud835\udde2\ud835\uddda\ud835\uddda\ud835\uddd8\ud835\udde5\ud835\udde6 - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/6062206140853919332/posts/default\x22 /\x3e\n', 'meTag': '\x3clink rel\x3d\x22me\x22 href\x3d\x22https://www.blogger.com/profile/07542779819567775505\x22 /\x3e\n', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'adsenseAutoAds': false, 'boqCommentIframeForm': true, 'loginRedirectParam': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/945d89ab3bda90a9', 'plusOneApiSrc': 'https://apis.google.com/js/platform.js', 'disableGComments': true, 'sharing': {'platforms': [{'name': 'Dapatkan link', 'key': 'link', 'shareMessage': 'Dapatkan link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Bagikan ke Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Bagikan ke Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Bagikan ke Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 0, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27id\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Baca selengkapnya', 'pageType': 'index', 'pageName': '', 'pageTitle': '\ud835\udde5\ud835\udddc\ud835\uddd9\ud835\uddde\ud835\udddc  \ud835\uddd5\ud835\udddf\ud835\udde2\ud835\uddda\ud835\uddda\ud835\uddd8\ud835\udde5\ud835\udde6'}}, {'name': 'features', 'data': {'sharing_get_link_dialog': 'true', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Tautan disalin ke papan klip!', 'ok': 'Oke', 'postLink': 'Tautan Pos'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Khusus', 'isResponsive': true, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': '\ud835\udde5\ud835\udddc\ud835\uddd9\ud835\uddde\ud835\udddc  \ud835\uddd5\ud835\udddf\ud835\udde2\ud835\uddda\ud835\uddda\ud835\uddd8\ud835\udde5\ud835\udde6', 'description': '', 'url': 'https://www.kibloggers.eu.org/', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}, {'name': 'widgets', 'data': [{'title': 'Cari', 'type': 'BlogSearch', 'sectionId': 'search_top', 'id': 'BlogSearch1'}, {'title': '\ud835\udde5\ud835\udddc\ud835\uddd9\ud835\uddde\ud835\udddc  \ud835\uddd5\ud835\udddf\ud835\udde2\ud835\uddda\ud835\uddda\ud835\uddd8\ud835\udde5\ud835\udde6 (Header)', 'type': 'Header', 'sectionId': 'header', 'id': 'Header1'}, {'title': 'My Profile', 'type': 'Profile', 'sectionId': 'page_body', 'id': 'Profile1'}, {'title': '', 'type': 'HTML', 'sectionId': 'page_body', 'id': 'HTML2'}, {'title': 'Postingan Blog', 'type': 'Blog', 'sectionId': 'page_body', 'id': 'Blog1', 'posts': [{'id': '6901031253433237649', 'title': 'PIALA DUNIA | SEJARAH SINGKAT, TROFI \x26amp; MASKOT TERKENALNYA', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT2zl9Bes1VbF631GhZgyjXx1wSokgEnX2y5O1P_Jd2GRP1LqSr60FDPFw0WoWX_aKVjOmIXGQTQT9Lk4XJ-jSi7bwxIjMS24Bz_npMHEEQtvarbEzmDMIc8QxAEyTvDZCaKCBfKQwFcK1FNay47gAcQZwuFsJncD6ptYioWcV4SdFqYq_a2ZetfWqZg/s320/master_91mJ4e5q8K_1379.jpg', 'showInlineAds': false}, {'id': '4658796613261295755', 'title': 'Sejarah Lahirnya Hari Santri Nasional', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGF9ekqkOdVxNHEhx6zqqsneGBI9U7LCSgUGnAFT50ETnkQt-TcuuwaP_g2qeymxDgIdHlLKdRiZyM8YITaXA5hYx1M6u1Z2z-W9IY-t66oOflrIge6PSBdYjuiYqDRdc_FuVff1oDsgQauXay-eOQWg5celVMU8JGrt90mjawqRc6z04TzTvVl_K-ug/s320/pngtree-greeting-text-of-selamat-hari-santri-nasional-png-image_8658593.png', 'showInlineAds': false}, {'id': '6188975931268865115', 'title': 'ADA YANG TAHU, KENAPA HARI MINGGU DITETAPKAN SEBAGAI HARI LIBUR ?!', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh2_Qr8bDxdlEorExwpcDId3qZMVfbSIfyMULNPyiNYwCsWZay2g7tnq-ya8EHEjW7RY28hrhHFRD4-dPYLlbKjavRuQfAS_jCn0smuY37ykOEp9y4FCQ8jx755yIGwdi86seXojs_v_QNfoRbIVc4SvKBl_WYDjPNheX5w8djgJt6OzfFasRP_azTaA/s320/sunday-quotes-index-1585055167.jpg', 'showInlineAds': false}, {'id': '6675822252721582643', 'title': 'HARI PAHLAWAN | Mengenang Pertempuran Besar di Surabaya', 'featuredImage': 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu4a6e0twzgrc6XH7UpOHORMvTvdtbJ451DhCAc5xdJ-Ixuwv3xvUl1RbfNN3_jbGE6hguKkBOv5sCN4pS5dnMoemZgVfrYWNQz6zmakLAIRZilj0yiOk4Ag5u2wdbKfWbA1jDcoOI9wMTbM2CAnK_Ar_x7BBqi2GQxY0BNsoHg9-NdHMlBvXtKFjLFA/s320/phlwn.png', 'showInlineAds': false}], 'headerByline': {'regionName': 'header1', 'items': [{'name': 'share', 'label': ''}, {'name': 'author', 'label': 'Oleh'}, {'name': 'timestamp', 'label': ''}]}, 'footerBylines': [{'regionName': 'footer1', 'items': [{'name': 'comments', 'label': 'Komentar'}, {'name': 'icons', 'label': ''}]}], 'allBylineItems': [{'name': 'share', 'label': ''}, {'name': 'author', 'label': 'Oleh'}, {'name': 'timestamp', 'label': ''}, {'name': 'comments', 'label': 'Komentar'}, {'name': 'icons', 'label': ''}]}, {'title': '', 'type': 'HTML', 'sectionId': 'page_body', 'id': 'HTML4'}, {'title': '', 'type': 'HTML', 'sectionId': 'footer', 'id': 'HTML3'}, {'title': '', 'type': 'HTML', 'sectionId': 'footer', 'id': 'HTML1'}, {'title': 'Daftar Isi', 'type': 'BlogArchive', 'sectionId': 'sidebar', 'id': 'BlogArchive1'}, {'title': '', 'type': 'LinkList', 'sectionId': 'sidebar', 'id': 'LinkList1'}]}]);
+_WidgetManager._RegisterWidget('_BlogSearchView', new _WidgetInfo('BlogSearch1', 'search_top', document.getElementById('BlogSearch1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ProfileView', new _WidgetInfo('Profile1', 'page_body', document.getElementById('Profile1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'page_body', document.getElementById('HTML2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'page_body', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML4', 'page_body', document.getElementById('HTML4'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML3', 'footer', document.getElementById('HTML3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'footer', document.getElementById('HTML1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'sidebar', document.getElementById('BlogArchive1'), {'languageDirection': 'ltr', 'loadingMessage': 'Memuat\x26hellip;'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList1', 'sidebar', document.getElementById('LinkList1'), {}, 'displayModeFull'));
+</script>
+</body>
+</html>
