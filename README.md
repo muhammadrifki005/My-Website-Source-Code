@@ -1,1 +1,1 @@
-You can visit my website ---> https://kibloggers.eu.org
+You can visit my Blog ---> https://www.kibloggers.eu.org
