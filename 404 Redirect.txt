@@ -1,0 +1,6 @@
+<!-- Redirect 404 Error -->
+<b:if cond='data:view.isError'>
+<script>
+window.location.href = &#39;https://google.com/404&#39;;
+</script>
+</b:if>
