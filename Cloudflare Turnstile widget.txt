@@ -1,8 +1,0 @@
-<script async='async' defer='defer' src='https://challenges.cloudflare.com/turnstile/v0/api.js'/>
-<div class='cf-turnstile' data-callback='javascriptCallback' data-sitekey='0x4AAAAAAABwga-qtnjOicL8'/>
-
-<form action='/login' method='POST'>
-   <input placeholder='username' type='text'/>
-   <input placeholder='password' type='password'/>
-   <div class='cf-turnstile' data-sitekey='0x4AAAAAAABwga-qtnjOicL8'/> 
-  <button type='submit' value='Submit'>Log in</button></form>
