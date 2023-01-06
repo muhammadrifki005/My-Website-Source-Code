@@ -4,6 +4,22 @@
     <meta content='width=device-width, initial-scale=1' name='viewport'/>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <title>RIFKI WEB</title>
+    <script type='text/javascript'>
+//Disable cut copy paste
+document.oncopy = function(){alert(&quot;Copy option disabled&quot;); return false;}
+document.oncut = function(){alert(&quot;Cut option disabled&quot;);return false;}
+document.onpaste = function(){alert(&quot;Paste option disabled&quot;);return false;}
+//Disable mouse right click
+document.onmousedown = disableclick;
+msg = &quot;Right click not permitted&quot;;
+function disableclick(e)
+{
+     if(event.button==2)
+     {
+     alert(msg);
+     return false;
+   }
+}</script>
   </head>
   <body>
     <h1 style='text-align:center;'>SELAMAT DATANG DI WEBSITE RIFKI</h1>
