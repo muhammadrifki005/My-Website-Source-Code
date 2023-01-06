@@ -1,3 +1,1 @@
-You can visit my Blog ---> https://www.rifkiez.eu.org
-
-Repository --> https://github.com/rifkitech/Website_activity
+Situs Blog saya ==> https://www.rifkiez.eu.org/
